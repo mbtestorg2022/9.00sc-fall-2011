@@ -9,7 +9,26 @@ uid: 1a9cef0b-4270-5f26-8826-24e84aceb1db
 Session Overview
 ----------------
 
-| ![A digitally altered photograph in which a man has an eye on his hand.]({{< resource_file ec5cad29-af78-a15d-3eb0-feb5c097a980 >}}) |  {{< br >}}{{< br >}} How do we identify things in our environment? How are we able to perceive objects like faces? During this lecture, we will explore how we are able to recognize objects and how the visual system interacts with our brain to make sense of what we see. {{< br >}}{{< br >}} _Keywords:_ agnosia, prognosia, perception, amygdale, facial recognition {{< br >}}{{< br >}} _Image courtesy of familymwr on Flickr. [CC-BY](http://creativecommons.org/licenses/by/2.0/deed.en)._ {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![A digitally altered photograph in which a man has an eye on his hand.]({{< resource_file ec5cad29-af78-a15d-3eb0-feb5c097a980 >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+How do we identify things in our environment? How are we able to perceive objects like faces? During this lecture, we will explore how we are able to recognize objects and how the visual system interacts with our brain to make sense of what we see.
+
+_Keywords:_ agnosia, prognosia, perception, amygdale, facial recognition
+
+_Image courtesy of familymwr on Flickr. [CC-BY](http://creativecommons.org/licenses/by/2.0/deed.en)._
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Session Activities
 ------------------
@@ -57,10 +76,59 @@ Further Study
 
 These optional resources are provided for students that wish to explore this topic more fully.
 
-| TYPE | CONTENT | CONTEXT |
-| --- | --- | --- |
-| Podcast | "[Strangers in the Mirror](http://www.radiolab.org/blogs/radiolab-blog/2010/jun/15/strangers-in-the-mirror/)" on [Radiolab](http://www.radiolab.org/). Hosted by Robert Krulwich, with guests Oliver Sacks and Chuck Close. Uploaded Tuesday, June 15, 2010. | An interview Oliver Sacks, a neuroscientist, and Chuck Close, an artist, both of whom have face blindness. |
-| Website | [TarrLab](http://tarrlab.cnbc.cmu.edu/) | A Carnegie Mellon University lab headed by Mike Tarr that focuses on visual perception and how humans process, recognize, and remember objects and faces. |
-| Textbook supplement | Study materials for Chapter 3, "Psychology Sensation and Perception: How the World Enters the Mind," in [Study Site for _Psychology in Context_](http://www.pearsonhighered.com/educator/product/Fundamentals-of-Psychology-in-Context/9780205507573.page), 3/e (Pearson Education, 2007) | Practice test questions, flashcards, and media for a related textbook by Kosslyn & Rosenberg 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+TYPE
+{{< thclose >}}
+{{< thopen >}}
+CONTENT
+{{< thclose >}}
+{{< thopen >}}
+CONTEXT
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Podcast
+{{< tdclose >}}
+{{< tdopen >}}
+"[Strangers in the Mirror](http://www.radiolab.org/blogs/radiolab-blog/2010/jun/15/strangers-in-the-mirror/)" on [Radiolab](http://www.radiolab.org/). Hosted by Robert Krulwich, with guests Oliver Sacks and Chuck Close. Uploaded Tuesday, June 15, 2010.
+{{< tdclose >}}
+{{< tdopen >}}
+An interview Oliver Sacks, a neuroscientist, and Chuck Close, an artist, both of whom have face blindness.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Website
+{{< tdclose >}}
+{{< tdopen >}}
+[TarrLab](http://tarrlab.cnbc.cmu.edu/)
+{{< tdclose >}}
+{{< tdopen >}}
+A Carnegie Mellon University lab headed by Mike Tarr that focuses on visual perception and how humans process, recognize, and remember objects and faces.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Textbook supplement
+{{< tdclose >}}
+{{< tdopen >}}
+Study materials for Chapter 3, "Psychology Sensation and Perception: How the World Enters the Mind," in [Study Site for _Psychology in Context_](http://www.pearsonhighered.com/educator/product/Fundamentals-of-Psychology-in-Context/9780205507573.page), 3/e (Pearson Education, 2007)
+{{< tdclose >}}
+{{< tdopen >}}
+Practice test questions, flashcards, and media for a related textbook by Kosslyn & Rosenberg
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 « [Previous]({{< baseurl >}}/pages/vision-i) | [Next]({{< baseurl >}}/pages/attention) »

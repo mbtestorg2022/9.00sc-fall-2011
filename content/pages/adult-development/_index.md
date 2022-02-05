@@ -9,7 +9,26 @@ uid: 16d028ce-a283-f227-fed3-766ed19d3957
 Session Overview
 ----------------
 
-| ![A photo of a woman, barefoot, on a swing.]({{< resource_file f8d6fd68-5d38-738f-0095-fad297a7d8b0 >}}) |  {{< br >}}{{< br >}} What happens to our bodies as we grow older? How do our brains change as we age? In this section, we will discuss the cognitive, emotional, and physical changes that occur as we progress into adulthood and beyond, showing through experimental studies what changes occur as we age. {{< br >}}{{< br >}} _Keywords_: adolescence, gerontology, risk, hippocampus {{< br >}}{{< br >}} _Photo courtesy of [colorblindPICASO](http://www.flickr.com/photos/colorblindpicaso/2540688582) on Flickr. CC-BY-NC._ {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![A photo of a woman, barefoot, on a swing.]({{< resource_file f8d6fd68-5d38-738f-0095-fad297a7d8b0 >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+What happens to our bodies as we grow older? How do our brains change as we age? In this section, we will discuss the cognitive, emotional, and physical changes that occur as we progress into adulthood and beyond, showing through experimental studies what changes occur as we age.
+
+_Keywords_: adolescence, gerontology, risk, hippocampus
+
+_Photo courtesy of [colorblindPICASO](http://www.flickr.com/photos/colorblindpicaso/2540688582) on Flickr. CC-BY-NC._
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Session Activities
 ------------------
@@ -56,10 +75,59 @@ Further Study
 
 These optional resources are provided for students that wish to explore this topic more fully.
 
-| TYPE | CONTENT | CONTEXT |
-| --- | --- | --- |
-| Video | "[The Aging Brain](http://www.learnoutloud.com/Free-Audio-Video/Social-Sciences/Psychology/Charlie-Rose-The-Brain-Series/43487)," from Charlie Rose: The Brain Series with Scott Small, Larry Squire, Brenda Milner, Eric Kandel, and John Hardy. | A panel discussion of aging in the brain hosted by Eric Kandel and the Howard Hughes Medical Institute |
-| Website (with video) | "[The Teenage Brain](http://www.pbs.org/wgbh/pages/frontline/shows/teenbrain/)" from Frontline. | A _Frontline_ episode about the teenage brain, as well as text explanations, interviews, and viewer comments |
-| Textbook supplement | Study materials for Chapter 12, "Psychology of the Lifespan: Growing Up, Growing Older, Growing Wiser," in [Study Site for _Psychology in Context_, 3/e](http://www.pearsonhighered.com/educator/product/Fundamentals-of-Psychology-in-Context/9780205507573.page) (Pearson Education, 2007) | Practice test questions, flashcards, and media for a related textbook by Kosslyn & Rosenberg 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+TYPE
+{{< thclose >}}
+{{< thopen >}}
+CONTENT
+{{< thclose >}}
+{{< thopen >}}
+CONTEXT
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Video
+{{< tdclose >}}
+{{< tdopen >}}
+"[The Aging Brain](http://www.learnoutloud.com/Free-Audio-Video/Social-Sciences/Psychology/Charlie-Rose-The-Brain-Series/43487)," from Charlie Rose: The Brain Series with Scott Small, Larry Squire, Brenda Milner, Eric Kandel, and John Hardy.
+{{< tdclose >}}
+{{< tdopen >}}
+A panel discussion of aging in the brain hosted by Eric Kandel and the Howard Hughes Medical Institute
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Website (with video)
+{{< tdclose >}}
+{{< tdopen >}}
+"[The Teenage Brain](http://www.pbs.org/wgbh/pages/frontline/shows/teenbrain/)" from Frontline.
+{{< tdclose >}}
+{{< tdopen >}}
+A _Frontline_ episode about the teenage brain, as well as text explanations, interviews, and viewer comments
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Textbook supplement
+{{< tdclose >}}
+{{< tdopen >}}
+Study materials for Chapter 12, "Psychology of the Lifespan: Growing Up, Growing Older, Growing Wiser," in [Study Site for _Psychology in Context_, 3/e](http://www.pearsonhighered.com/educator/product/Fundamentals-of-Psychology-in-Context/9780205507573.page) (Pearson Education, 2007)
+{{< tdclose >}}
+{{< tdopen >}}
+Practice test questions, flashcards, and media for a related textbook by Kosslyn & Rosenberg
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 « [Previous]({{< baseurl >}}/pages/child-development) | [Next]({{< baseurl >}}/pages/stress) »

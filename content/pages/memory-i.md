@@ -9,7 +9,26 @@ uid: 3f7aca32-309e-ae8c-98f0-cbd01eab2677
 Session Overview
 ----------------
 
-| ![Photo of an old-fashioned rolling elephant toy.]({{< resource_file 14ca5166-fdcf-2b9d-a190-3b3366aeb6ed >}}) |  {{< br >}}{{< br >}} How good is your memory? What different types of memory do we have? What kind of factors can affect how we retain certain information in our memory? During this session, we will explore steps by which we create and store memories and the different categories of memories. {{< br >}}{{< br >}} _Keywords:_ memory, flashbulb memories, short and long term memory, proactive and retroactive interference, Ebbinghaus's curve of forgetting, mnemonist {{< br >}}{{< br >}} _Image by [Andrew B47](http://www.flickr.com/photos/andrewb47/) on Flickr._ {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![Photo of an old-fashioned rolling elephant toy.]({{< resource_file 14ca5166-fdcf-2b9d-a190-3b3366aeb6ed >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+How good is your memory? What different types of memory do we have? What kind of factors can affect how we retain certain information in our memory? During this session, we will explore steps by which we create and store memories and the different categories of memories.
+
+_Keywords:_ memory, flashbulb memories, short and long term memory, proactive and retroactive interference, Ebbinghaus's curve of forgetting, mnemonist
+
+_Image by [Andrew B47](http://www.flickr.com/photos/andrewb47/) on Flickr._
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Session Activities
 ------------------
@@ -49,10 +68,59 @@ Further Study
 
 These optional resources are provided for students that wish to explore this topic more fully.
 
-| TYPE | CONTENT | CONTEXT |
-| --- | --- | --- |
-| Podcast | Audio podcast: "[Limits of the Mind](http://www.radiolab.org/2010/apr/05/limits-of-the-mind/)." From "Limits," [_Radiolab_](http://www.radiolab.org) season 7, episode 3 (2010). | 19 minute segment on the limits of human memory, including more on the case of mnemonist "S" studied by A. R. Luria (as discussed in this lecture). |
-| Article | Trafton, A. "[3 Questions: John Gabrieli on studying traumatic memories](http://web.mit.edu/newsoffice/2011/3q-gabrielli-sept-11-0909.html)." MIT News Office, Sept. 9, 2011. | Prof. Gabrieli discusses a [large-scale study](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2925254/?tool=pubmed) on how people remember the 9/11 attacks, and what that tells us about memories of emotionally significant events. |
-| Assignment | See the [Further Study]({{< baseurl >}}/pages/child-development#Further_Study) section of the Child Development session for a writing assignment on whether "recovered" memories are real or false. | Research by Loftus et al, whose work is discussed in this lecture's segment on eyewitness memories, is part of the assignment.  
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+TYPE
+{{< thclose >}}
+{{< thopen >}}
+CONTENT
+{{< thclose >}}
+{{< thopen >}}
+CONTEXT
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Podcast
+{{< tdclose >}}
+{{< tdopen >}}
+Audio podcast: "[Limits of the Mind](http://www.radiolab.org/2010/apr/05/limits-of-the-mind/)." From "Limits," [_Radiolab_](http://www.radiolab.org) season 7, episode 3 (2010).
+{{< tdclose >}}
+{{< tdopen >}}
+19 minute segment on the limits of human memory, including more on the case of mnemonist "S" studied by A. R. Luria (as discussed in this lecture).
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Article
+{{< tdclose >}}
+{{< tdopen >}}
+Trafton, A. "[3 Questions: John Gabrieli on studying traumatic memories](http://web.mit.edu/newsoffice/2011/3q-gabrielli-sept-11-0909.html)." MIT News Office, Sept. 9, 2011.
+{{< tdclose >}}
+{{< tdopen >}}
+Prof. Gabrieli discusses a [large-scale study](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2925254/?tool=pubmed) on how people remember the 9/11 attacks, and what that tells us about memories of emotionally significant events.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Assignment
+{{< tdclose >}}
+{{< tdopen >}}
+See the [Further Study]({{< baseurl >}}/pages/child-development#Further_Study) section of the Child Development session for a writing assignment on whether "recovered" memories are real or false.
+{{< tdclose >}}
+{{< tdopen >}}
+Research by Loftus et al, whose work is discussed in this lecture's segment on eyewitness memories, is part of the assignment. 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 « [Previous]({{< baseurl >}}/pages/exam-1) | [Next]({{< baseurl >}}/pages/memory-ii) »

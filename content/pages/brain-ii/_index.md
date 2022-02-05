@@ -9,7 +9,30 @@ uid: 6026acd4-95f8-e039-d1e8-11a66efa90b3
 Session Overview
 ----------------
 
-| ![Photo of a person sitting in a chair with a large cylindrical apparatus around their head, looking at a computer screen and holding a response device.]({{< resource_file ac4d4ddb-9e8d-b4f0-b735-6040cec313e2 >}}) |  {{< br >}}{{< br >}} Understanding how the brain makes the mind takes an array of research methods. In this session, you'll learn the key principles, strengths, and limitations of brain injury studies, neural stimulation, and various recording techniques. The lecture video ends with a look at how research methods can help answer big questions about higher-level cognition, such as: {{< br >}}{{< br >}} *   Is there a anatomical basis for empathy?{{< br >}}*   Does a patient in a "vegetative state" have mental imagery like healthy individuals? {{< br >}}{{< br >}} _Keywords:_ lesion, neural stimulation, TMS, recording, structure vs. function, CT, DTI, EEG, MEG, PET, fMRI {{< br >}}{{< br >}} _A patient in a MEG scanner. (Public domain image from National Institute of Mental Health.)  {{< br >}}_ {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![Photo of a person sitting in a chair with a large cylindrical apparatus around their head, looking at a computer screen and holding a response device.]({{< resource_file ac4d4ddb-9e8d-b4f0-b735-6040cec313e2 >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Understanding how the brain makes the mind takes an array of research methods. In this session, you'll learn the key principles, strengths, and limitations of brain injury studies, neural stimulation, and various recording techniques. The lecture video ends with a look at how research methods can help answer big questions about higher-level cognition, such as:
+
+*   Is there a anatomical basis for empathy?
+*   Does a patient in a "vegetative state" have mental imagery like healthy individuals?
+
+_Keywords:_ lesion, neural stimulation, TMS, recording, structure vs. function, CT, DTI, EEG, MEG, PET, fMRI
+
+_A patient in a MEG scanner. (Public domain image from National Institute of Mental Health.)  
+_
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Session Activities
 ------------------
@@ -77,11 +100,71 @@ Further Study
 
 These optional resources are provided for students that wish to explore this topic more fully.
 
-| TYPE | CONTENT | CONTEXT |
-| --- | --- | --- |
-| Video | "[Jill Bolte Taylor's stroke of insight](http://www.ted.com/talks/jill_bolte_taylor_s_powerful_stroke_of_insight.html)." February. 2008. TED Talks. Accessed August. 19, 2011. \[00:18:42\] | A neuroscientist describes her experience having a massive stroke and subsequent recovery |
-| Web resource | Johnson, K. A., and J. A. Becker. [The Whole Brain Atlas](http://www.med.harvard.edu/AANLIB/home.html). | Includes a detailed primer on neuroimaging and a library of brain images |
-| Video | NIMHgov. "The Brain's Inner Workings Part II: Cognition." Aug. 12, 2009. YouTube. Accessed Feb. 14, 2012. [http://www.youtube.com/watch?v=PKj9i1qS08M](http://www.youtube.com/watch?v=PKj9i1qS08M) | Short video on imaging techniques that illustrate the neurological basis of higher brain function |
-| Textbook supplement | Study materials for Chapter 3, "The Biology of Mind and Behavior," in [Study Site for _Psychology in Context_, 3/e](http://www.pearsonhighered.com/educator/product/Fundamentals-of-Psychology-in-Context/9780205507573.page) (Pearson Education, 2007) | Practice test questions, flashcards, and media for a related textbook by Kosslyn & Rosenberg 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+TYPE
+{{< thclose >}}
+{{< thopen >}}
+CONTENT
+{{< thclose >}}
+{{< thopen >}}
+CONTEXT
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Video
+{{< tdclose >}}
+{{< tdopen >}}
+"[Jill Bolte Taylor's stroke of insight](http://www.ted.com/talks/jill_bolte_taylor_s_powerful_stroke_of_insight.html)." February. 2008. TED Talks. Accessed August. 19, 2011. \[00:18:42\]
+{{< tdclose >}}
+{{< tdopen >}}
+A neuroscientist describes her experience having a massive stroke and subsequent recovery
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Web resource
+{{< tdclose >}}
+{{< tdopen >}}
+Johnson, K. A., and J. A. Becker. [The Whole Brain Atlas](http://www.med.harvard.edu/AANLIB/home.html).
+{{< tdclose >}}
+{{< tdopen >}}
+Includes a detailed primer on neuroimaging and a library of brain images
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Video
+{{< tdclose >}}
+{{< tdopen >}}
+NIMHgov. "The Brain's Inner Workings Part II: Cognition." Aug. 12, 2009. YouTube. Accessed Feb. 14, 2012. [http://www.youtube.com/watch?v=PKj9i1qS08M](http://www.youtube.com/watch?v=PKj9i1qS08M)
+{{< tdclose >}}
+{{< tdopen >}}
+Short video on imaging techniques that illustrate the neurological basis of higher brain function
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Textbook supplement
+{{< tdclose >}}
+{{< tdopen >}}
+Study materials for Chapter 3, "The Biology of Mind and Behavior," in [Study Site for _Psychology in Context_, 3/e](http://www.pearsonhighered.com/educator/product/Fundamentals-of-Psychology-in-Context/9780205507573.page) (Pearson Education, 2007)
+{{< tdclose >}}
+{{< tdopen >}}
+Practice test questions, flashcards, and media for a related textbook by Kosslyn & Rosenberg
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 « [Previous]({{< baseurl >}}/pages/brain-i) | [Next]({{< baseurl >}}/pages/vision-i) »

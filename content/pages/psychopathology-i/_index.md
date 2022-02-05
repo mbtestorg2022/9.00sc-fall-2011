@@ -9,7 +9,26 @@ uid: 3d51e6ac-e4c7-aca1-640b-d0dc09600b04
 Session Overview
 ----------------
 
-| ![Photo of an embroidered cloth made by a schizophrenic patient.]({{< resource_file d8cd2b83-5f2d-80b5-e415-52d4737de842 >}}) |  {{< br >}}{{< br >}} What is psychopathology? Why is psychopathology important? During this lesson, we will examine the history of psychopathology and various experiments that demonstrate the importance of accurate diagnoses of mental disorders. We will also look in detail at the symptoms, causes, and treatment of schizophrenia. {{< br >}}{{< br >}} _Keywords_: psychopathology, mental disorders, Tourette's, schizophrenia, antipsychotic medication, diagnosis, lobotomy, genetic predispositions, dopamine {{< br >}}{{< br >}} _An embroidered cloth made by a patient diagnosed with schizophrenia. (Image by [cometstarmoon](http://www.flickr.com/photos/calistan/) on Flickr. License: CC-BY.)_ {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![Photo of an embroidered cloth made by a schizophrenic patient.]({{< resource_file d8cd2b83-5f2d-80b5-e415-52d4737de842 >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+What is psychopathology? Why is psychopathology important? During this lesson, we will examine the history of psychopathology and various experiments that demonstrate the importance of accurate diagnoses of mental disorders. We will also look in detail at the symptoms, causes, and treatment of schizophrenia.
+
+_Keywords_: psychopathology, mental disorders, Tourette's, schizophrenia, antipsychotic medication, diagnosis, lobotomy, genetic predispositions, dopamine
+
+_An embroidered cloth made by a patient diagnosed with schizophrenia. (Image by [cometstarmoon](http://www.flickr.com/photos/calistan/) on Flickr. License: CC-BY.)_
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Session Activities
 ------------------
@@ -71,10 +90,59 @@ Further Study
 
 These optional resources are provided for students that wish to explore this topic more fully.
 
-| TYPE | CONTENT | CONTEXT |
-| --- | --- | --- |
-| Web resource | National Institute of Mental Health's [page on schizophrenia](http://www.nimh.nih.gov/health/publications/schizophrenia/index.shtml) | Includes a description of the symptoms, causes, and treatments of schizophrenia |
-| Web resource | [PubMed Health Medical Encyclopedia](https://www.ncbi.nlm.nih.gov/pubmed/), by the U.S. National Library of Medicine | Good medical diagnostic and background information, including mental disorders |
-| Textbook supplement | Study materials for Ch. 14, "Psychological Disorders: More Than Everyday Problems." In [Kosslyn & Rosenberg, _Psychology in Context_, 3/e](http://www.pearsonhighered.com/educator/product/Fundamentals-of-Psychology-in-Context/9780205507573.page) (Pearson, 2007) | Practice test questions, flashcards, and media for a related textbook 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+TYPE
+{{< thclose >}}
+{{< thopen >}}
+CONTENT
+{{< thclose >}}
+{{< thopen >}}
+CONTEXT
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Web resource
+{{< tdclose >}}
+{{< tdopen >}}
+National Institute of Mental Health's [page on schizophrenia](http://www.nimh.nih.gov/health/publications/schizophrenia/index.shtml)
+{{< tdclose >}}
+{{< tdopen >}}
+Includes a description of the symptoms, causes, and treatments of schizophrenia
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Web resource
+{{< tdclose >}}
+{{< tdopen >}}
+[PubMed Health Medical Encyclopedia](https://www.ncbi.nlm.nih.gov/pubmed/), by the U.S. National Library of Medicine
+{{< tdclose >}}
+{{< tdopen >}}
+Good medical diagnostic and background information, including mental disorders
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Textbook supplement
+{{< tdclose >}}
+{{< tdopen >}}
+Study materials for Ch. 14, "Psychological Disorders: More Than Everyday Problems." In [Kosslyn & Rosenberg, _Psychology in Context_, 3/e](http://www.pearsonhighered.com/educator/product/Fundamentals-of-Psychology-in-Context/9780205507573.page) (Pearson, 2007)
+{{< tdclose >}}
+{{< tdopen >}}
+Practice test questions, flashcards, and media for a related textbook
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 « [Previous]({{< baseurl >}}/pages/stress) | [Next]({{< baseurl >}}/pages/psychopathology-ii) »

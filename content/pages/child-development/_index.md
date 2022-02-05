@@ -9,7 +9,26 @@ uid: 997bafe5-99f3-c3e0-e5a8-007934413597
 Session Overview
 ----------------
 
-| ![A photo of a boy playing with blocks.]({{< resource_file 2426bc29-cca6-e9d1-957e-e1b8d1173387 >}}) |  {{< br >}}{{< br >}} Do you remember your life as a young child? What capabilities to infants have? What are the stages of physical and cognitive development after birth? In this lecture, we will explore the major milestones of infancy and the theories and phenomena that often accompany this progression. {{< br >}}{{< br >}} _Keywords_: child development, Piaget, nature/nurture, neotony {{< br >}}{{< br >}} _Photo courtesy of [Adam Baker](http://www.flickr.com/photos/atbaker/3350580540) on Flickr. CC-BY._ {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![A photo of a boy playing with blocks.]({{< resource_file 2426bc29-cca6-e9d1-957e-e1b8d1173387 >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Do you remember your life as a young child? What capabilities to infants have? What are the stages of physical and cognitive development after birth? In this lecture, we will explore the major milestones of infancy and the theories and phenomena that often accompany this progression.
+
+_Keywords_: child development, Piaget, nature/nurture, neotony
+
+_Photo courtesy of [Adam Baker](http://www.flickr.com/photos/atbaker/3350580540) on Flickr. CC-BY._
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Session Activities
 ------------------
@@ -88,10 +107,59 @@ A child with a _disorganized_ attachment style seems to have no consistent way o
 
 These optional resources are provided for students that wish to explore this topic more fully.
 
-| TYPE | CONTENT | CONTEXT |
-| --- | --- | --- |
-| Webpage | [Infant Cognition Lab](http://labs.psychology.illinois.edu/infantlab/) | A University of Illinois lab, headed by Dr. Renée Baillargeon, focusing on cognitive development during the first three years of life. |
-| Article | Scott, Paul. "[Kid Rock](http://www.nytimes.com/2006/04/02/magazine/02wiggles.html?pagewanted=all)." New York Times Magazine. April 2, 2006. | An article on "The Wiggles," a music group that writes music and performs for young children. |
-| Textbook supplement | Study materials for Ch. 12 "Psychology Over the Lifespan: Growing Up, Growing Older, Growing Wiser." In [Kosslyn & Rosenberg, _Psychology in Context_, 3/e](http://www.pearsonhighered.com/educator/product/Fundamentals-of-Psychology-in-Context/9780205507573.page) (Pearson, 2007) | Practice test questions, flashcards, and media for a related textbook 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+TYPE
+{{< thclose >}}
+{{< thopen >}}
+CONTENT
+{{< thclose >}}
+{{< thopen >}}
+CONTEXT
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Webpage
+{{< tdclose >}}
+{{< tdopen >}}
+[Infant Cognition Lab](http://labs.psychology.illinois.edu/infantlab/)
+{{< tdclose >}}
+{{< tdopen >}}
+A University of Illinois lab, headed by Dr. Renée Baillargeon, focusing on cognitive development during the first three years of life.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Article
+{{< tdclose >}}
+{{< tdopen >}}
+Scott, Paul. "[Kid Rock](http://www.nytimes.com/2006/04/02/magazine/02wiggles.html?pagewanted=all)." New York Times Magazine. April 2, 2006.
+{{< tdclose >}}
+{{< tdopen >}}
+An article on "The Wiggles," a music group that writes music and performs for young children.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Textbook supplement
+{{< tdclose >}}
+{{< tdopen >}}
+Study materials for Ch. 12 "Psychology Over the Lifespan: Growing Up, Growing Older, Growing Wiser." In [Kosslyn & Rosenberg, _Psychology in Context_, 3/e](http://www.pearsonhighered.com/educator/product/Fundamentals-of-Psychology-in-Context/9780205507573.page) (Pearson, 2007)
+{{< tdclose >}}
+{{< tdopen >}}
+Practice test questions, flashcards, and media for a related textbook
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 « [Previous]({{< baseurl >}}/pages/personality) | [Next]({{< baseurl >}}/pages/adult-development) »

@@ -9,7 +9,26 @@ uid: 7c2c180c-bd50-5e62-bbf0-62d2d4926cae
 Session Overview
 ----------------
 
-| ![Photo of stress balls with different cartoon facial expressions on them.](/courses/brain-and-cognitive-sciences/9-00sc-introduction-to-psychology-fall-2011/stress/lec19_chp.jpg) |  {{< br >}}{{< br >}} What stresses you out? What is stress and how does it affect our body? In this lecture, we will examine stress, the neural substrates of stress, and the ways in which stress manifests itself physically and emotionally. {{< br >}}{{< br >}} _Keywords_: PTSD, post traumatic stress disorder, stress, embodied cognition, emotional pain, type a personality, ulcers, stress and mortality, stereotype stress {{< br >}}{{< br >}} _Stress balls are marketed as a coping mechanism for stress. (Image by [Weas Frikis](http://www.flickr.com/photos/weasfrikis/) on Flickr. License: CC-BY-NC-SA.)_ {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![Photo of stress balls with different cartoon facial expressions on them.](/courses/brain-and-cognitive-sciences/9-00sc-introduction-to-psychology-fall-2011/stress/lec19_chp.jpg)
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+What stresses you out? What is stress and how does it affect our body? In this lecture, we will examine stress, the neural substrates of stress, and the ways in which stress manifests itself physically and emotionally.
+
+_Keywords_: PTSD, post traumatic stress disorder, stress, embodied cognition, emotional pain, type a personality, ulcers, stress and mortality, stereotype stress
+
+_Stress balls are marketed as a coping mechanism for stress. (Image by [Weas Frikis](http://www.flickr.com/photos/weasfrikis/) on Flickr. License: CC-BY-NC-SA.)_
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Session Activities
 ------------------
@@ -94,10 +113,59 @@ Further Study
 
 These optional resources are provided for students that wish to explore this topic more fully.
 
-| TYPE | CONTENT | CONTEXT |
-| --- | --- | --- |
-| Book | Saplosky, Robert M. _Why Zebras Don't Get Ulcers_. 3rd ed. Holt Paperbacks, 2004. ISBN: 9780805073690. | Book that Prof. Gabrieli recommends in class |
-| Participate in research | Project Implicit® Implicit Association Tests, [http://implicit.harvard.edu/](http://implicit.harvard.edu/). | Educational resource and research site for investigations in implicit social cognition, including more demonstrations and opportunities to participate in ongoing research. |
-| Textbook supplement | Study materials for Ch. 13, "Stress, Health, and Coping : Dealing With Life." In [Kosslyn & Rosenberg, _Psychology in Context_, 3/e](http://www.pearsonhighered.com/educator/product/Fundamentals-of-Psychology-in-Context/9780205507573.page) (Pearson, 2007) | Practice test questions, flashcards, and media for a related textbook 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+TYPE
+{{< thclose >}}
+{{< thopen >}}
+CONTENT
+{{< thclose >}}
+{{< thopen >}}
+CONTEXT
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Book
+{{< tdclose >}}
+{{< tdopen >}}
+Saplosky, Robert M. _Why Zebras Don't Get Ulcers_. 3rd ed. Holt Paperbacks, 2004. ISBN: 9780805073690.
+{{< tdclose >}}
+{{< tdopen >}}
+Book that Prof. Gabrieli recommends in class
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Participate in research
+{{< tdclose >}}
+{{< tdopen >}}
+Project Implicit® Implicit Association Tests, [http://implicit.harvard.edu/](http://implicit.harvard.edu/).
+{{< tdclose >}}
+{{< tdopen >}}
+Educational resource and research site for investigations in implicit social cognition, including more demonstrations and opportunities to participate in ongoing research.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Textbook supplement
+{{< tdclose >}}
+{{< tdopen >}}
+Study materials for Ch. 13, "Stress, Health, and Coping : Dealing With Life." In [Kosslyn & Rosenberg, _Psychology in Context_, 3/e](http://www.pearsonhighered.com/educator/product/Fundamentals-of-Psychology-in-Context/9780205507573.page) (Pearson, 2007)
+{{< tdclose >}}
+{{< tdopen >}}
+Practice test questions, flashcards, and media for a related textbook
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 « [Previous]({{< baseurl >}}/pages/adult-development) | [Next]({{< baseurl >}}/pages/psychopathology-i) »

@@ -44,10 +44,48 @@ Assigned readings are provided for each class session. You should do the reading
 
 You may use either of the following psychology textbooks. For each class session, we have listed the equivalent readings in each book. Some chapters span multiple lectures, for which you might begin by skimming the entire chapter and then read the relevant sections.
 
-| TEXTBOOK | DESCRIPTION |
-| --- | --- |
-| {{< anchor "_K_R_" >}}{{< /anchor >}}\[K&R\] = Kosslyn, Stephen M., and Robin S. Rosenberg. _Introducing Psychology: Brain, Person, Group_. 4th Edition. Pearson Education, 2010. ISBN: 9780558882846. |  {{< br >}}{{< br >}} This textbook is used by students enrolled in the class at MIT. It presents a large amount of material at a fairly demanding reading level. {{< br >}}{{< br >}} While OCW cannot provide online access to this book, we do present for each class session: {{< br >}}{{< br >}} *   Study outlines of each chapter prepared by one of the course TAs.{{< br >}}*   "Further Study" links to [supplemental study materials](http://www.pearsonhighered.com/educator/product/Fundamentals-of-Psychology-in-Context/9780205507573.page) for a related textbook by the same authors. {{< br >}}{{< br >}}  |
-| {{< anchor "_Stangor_" >}}{{< /anchor >}}\[Stangor\] = Stangor, Charles. [_Introduction to Psychology_ (PDF - 14.0MB)](/ans7870/9/9.00SC/MIT9_00SCF11_text.pdf). 2010. (Courtesy of Charles Stangor and the Saylor Foundation.) | This Creative Commons-licensed text is a free online alternative to the Kosslyn and Rosenberg text used in the class at MIT. 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+TEXTBOOK
+{{< thclose >}}
+{{< thopen >}}
+DESCRIPTION
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+{{< anchor "_K_R_" >}}{{< /anchor >}}\[K&R\] = Kosslyn, Stephen M., and Robin S. Rosenberg. _Introducing Psychology: Brain, Person, Group_. 4th Edition. Pearson Education, 2010. ISBN: 9780558882846.
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+This textbook is used by students enrolled in the class at MIT. It presents a large amount of material at a fairly demanding reading level.
+
+While OCW cannot provide online access to this book, we do present for each class session:
+
+*   Study outlines of each chapter prepared by one of the course TAs.
+*   "Further Study" links to [supplemental study materials](http://www.pearsonhighered.com/educator/product/Fundamentals-of-Psychology-in-Context/9780205507573.page) for a related textbook by the same authors.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+{{< anchor "_Stangor_" >}}{{< /anchor >}}\[Stangor\] = Stangor, Charles. [_Introduction to Psychology_ (PDF - 14.0MB)](/ans7870/9/9.00SC/MIT9_00SCF11_text.pdf). 2010. (Courtesy of Charles Stangor and the Saylor Foundation.)
+{{< tdclose >}}
+{{< tdopen >}}
+This Creative Commons-licensed text is a free online alternative to the Kosslyn and Rosenberg text used in the class at MIT.
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Some class sessions also include reading assignments in:
 

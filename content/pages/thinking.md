@@ -9,7 +9,26 @@ uid: 13877f0d-e096-cd97-097b-21b89a257f99
 Session Overview
 ----------------
 
-| ![Photo of Rodin's "The Thinker," a statue of a seated man, chin resting on hand and deep in thought.]({{< resource_file d4af182f-9138-1c42-6d44-8d816ac7c14f >}}) |  {{< br >}}{{< br >}} How do we make decisions about the situations we experience every day? In this session, we'll use brain teasers and word problems to highlight some of the mechanisms that drive human thinking — e.g. functional fixedness, heuristics, and framing. The lecture also touches briefly on the role of the brain's frontal lobes in problem solving and emotions. {{< br >}}{{< br >}} _Keywords:_ thinking, functional fixedness, heuristics, anchoring, adjustment, framing, frontal lobes, risk taking, psychopathology {{< br >}}{{< br >}} _Image courtesy of [marttj](http://www.flickr.com/photos/tmartin/71654890) on Flickr._ {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![Photo of Rodin's "The Thinker," a statue of a seated man, chin resting on hand and deep in thought.]({{< resource_file d4af182f-9138-1c42-6d44-8d816ac7c14f >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+How do we make decisions about the situations we experience every day? In this session, we'll use brain teasers and word problems to highlight some of the mechanisms that drive human thinking — e.g. functional fixedness, heuristics, and framing. The lecture also touches briefly on the role of the brain's frontal lobes in problem solving and emotions.
+
+_Keywords:_ thinking, functional fixedness, heuristics, anchoring, adjustment, framing, frontal lobes, risk taking, psychopathology
+
+_Image courtesy of [marttj](http://www.flickr.com/photos/tmartin/71654890) on Flickr._
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Session Activities
 ------------------
@@ -98,10 +117,59 @@ Further Study
 
 These optional resources are provided for students that wish to explore this topic more fully.
 
-| TYPE | CONTENT | CONTEXT |
-| --- | --- | --- |
-| Supplemental reading | Seabrook, John. "[Suffering Souls](http://www.newyorker.com/reporting/2008/11/10/081110fa_fact_seabrook)." _The New Yorker_, November 10, 2008. | Story about Dr. Kent Kiehl, mentioned by Prof. Gabrieli at the end of lecture. Dr. Kiehl is a studying psychopathy with a a truck-mounted MRI scanner that he brings into prisons. |
-| Related research | Delude, C. M. "[_Culture influences brain function, study shows_](http://web.mit.edu/newsoffice/2008/psychology-0111.html)." _MIT News_, Jan. 11 2008. | Short news article about research led by Prof. Gabrieli, which identified cultural influences on making quick judgements. |
-| Textbook supplement | Study materials for Ch. 8 "Language and Thinking: What Humans Do Best." In [Kosslyn & Rosenberg, _Psychology in Context_, 3/e](http://www.pearsonhighered.com/educator/product/Fundamentals-of-Psychology-in-Context/9780205507573.page) (Pearson, 2007) | Practice test questions, flashcards, and media for a related textbook 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+TYPE
+{{< thclose >}}
+{{< thopen >}}
+CONTENT
+{{< thclose >}}
+{{< thopen >}}
+CONTEXT
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Supplemental reading
+{{< tdclose >}}
+{{< tdopen >}}
+Seabrook, John. "[Suffering Souls](http://www.newyorker.com/reporting/2008/11/10/081110fa_fact_seabrook)." _The New Yorker_, November 10, 2008.
+{{< tdclose >}}
+{{< tdopen >}}
+Story about Dr. Kent Kiehl, mentioned by Prof. Gabrieli at the end of lecture. Dr. Kiehl is a studying psychopathy with a a truck-mounted MRI scanner that he brings into prisons.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Related research
+{{< tdclose >}}
+{{< tdopen >}}
+Delude, C. M. "[_Culture influences brain function, study shows_](http://web.mit.edu/newsoffice/2008/psychology-0111.html)." _MIT News_, Jan. 11 2008.
+{{< tdclose >}}
+{{< tdopen >}}
+Short news article about research led by Prof. Gabrieli, which identified cultural influences on making quick judgements.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Textbook supplement
+{{< tdclose >}}
+{{< tdopen >}}
+Study materials for Ch. 8 "Language and Thinking: What Humans Do Best." In [Kosslyn & Rosenberg, _Psychology in Context_, 3/e](http://www.pearsonhighered.com/educator/product/Fundamentals-of-Psychology-in-Context/9780205507573.page) (Pearson, 2007)
+{{< tdclose >}}
+{{< tdopen >}}
+Practice test questions, flashcards, and media for a related textbook
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 « [Previous]({{< baseurl >}}/pages/language-1) | [Next]({{< baseurl >}}/pages/intelligence) »

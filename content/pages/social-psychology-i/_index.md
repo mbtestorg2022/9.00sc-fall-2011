@@ -9,7 +9,26 @@ uid: ccc3861a-7d57-ad0a-f405-18e6fb5674e7
 Session Overview
 ----------------
 
-| ![Photo of a crowd showing a range of social behavior.]({{< resource_file 0dac5d87-794f-96da-7cd6-3cfcbdc30ede >}}) |  {{< br >}}{{< br >}} What is social psychology? What is the relationship between attitude and behavior? In this lesson, we will study how the people around us influence our feelings, thoughts, and behaviors, and learn "how funny we are as humans in our desire to fit in." We also will go over two of the most famous experiments in psychology: the Stanford Prison Experiment and the Milgram Obedience Experiment.  {{< br >}}{{< br >}} _Keywords_: dispositional versus situational attribution, cognitive busyness, Stanford Prison Experiment, Milgram Obedience Experiment, Pfc. England, conformity, compliance, obedience, the bystander effect {{< br >}}{{< br >}} _A crowd demonstrating a wide range of social behavior. (Image by [Sreejith K](http://www.flickr.com/people/57441548@N00) on Flickr. License: CC-BY.)_ {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![Photo of a crowd showing a range of social behavior.]({{< resource_file 0dac5d87-794f-96da-7cd6-3cfcbdc30ede >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+What is social psychology? What is the relationship between attitude and behavior? In this lesson, we will study how the people around us influence our feelings, thoughts, and behaviors, and learn "how funny we are as humans in our desire to fit in." We also will go over two of the most famous experiments in psychology: the Stanford Prison Experiment and the Milgram Obedience Experiment. 
+
+_Keywords_: dispositional versus situational attribution, cognitive busyness, Stanford Prison Experiment, Milgram Obedience Experiment, Pfc. England, conformity, compliance, obedience, the bystander effect
+
+_A crowd demonstrating a wide range of social behavior. (Image by [Sreejith K](http://www.flickr.com/people/57441548@N00) on Flickr. License: CC-BY.)_
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Session Activities
 ------------------
@@ -65,10 +84,59 @@ Further Study
 
 These optional resources are provided for students that wish to explore this topic more fully.
 
-| TYPE | CONTENT | CONTEXT |
-| --- | --- | --- |
-| Supplemental textbook | ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[_Principles of Social Psychology_ (PDF - 6.5MB)](http://www.saylor.org/site/textbooks/Principles%20of%20Social%20Psychology.pdf) | Creative Commons-licensed online textbook |
-| Interactive map | [World Map of Hofstede's Individualism Scores](https://www.hofstede-insights.com/product/compare-countries/) | Interactive map showing worldwide individualism scores mentioned in lecture |
-| Textbook supplement | Study materials for Chapter 16, "Social Psychology: Meeting of the Minds" in [Study Site for _Psychology in Context_, 3/e](http://www.pearsonhighered.com/educator/product/Fundamentals-of-Psychology-in-Context/9780205507573.page) (Pearson Education, 2007) | Practice test questions, flashcards, and media for a related textbook by Kosslyn & Rosenberg 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+TYPE
+{{< thclose >}}
+{{< thopen >}}
+CONTENT
+{{< thclose >}}
+{{< thopen >}}
+CONTEXT
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Supplemental textbook
+{{< tdclose >}}
+{{< tdopen >}}
+![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[_Principles of Social Psychology_ (PDF - 6.5MB)](http://www.saylor.org/site/textbooks/Principles%20of%20Social%20Psychology.pdf)
+{{< tdclose >}}
+{{< tdopen >}}
+Creative Commons-licensed online textbook
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Interactive map
+{{< tdclose >}}
+{{< tdopen >}}
+[World Map of Hofstede's Individualism Scores](https://www.hofstede-insights.com/product/compare-countries/)
+{{< tdclose >}}
+{{< tdopen >}}
+Interactive map showing worldwide individualism scores mentioned in lecture
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Textbook supplement
+{{< tdclose >}}
+{{< tdopen >}}
+Study materials for Chapter 16, "Social Psychology: Meeting of the Minds" in [Study Site for _Psychology in Context_, 3/e](http://www.pearsonhighered.com/educator/product/Fundamentals-of-Psychology-in-Context/9780205507573.page) (Pearson Education, 2007)
+{{< tdclose >}}
+{{< tdopen >}}
+Practice test questions, flashcards, and media for a related textbook by Kosslyn & Rosenberg
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 « [Previous]({{< baseurl >}}/pages/psychopathology-ii) | [Next]({{< baseurl >}}/pages/social-psychology-ii) »

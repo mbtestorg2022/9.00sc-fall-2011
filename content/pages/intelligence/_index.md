@@ -9,7 +9,26 @@ uid: 6d9b0bff-490c-c5ef-5d14-755460c9afd0
 Session Overview
 ----------------
 
-| ![Photo of a person filling in answers on a computer-graded test answer sheet.]({{< resource_file 05b61f8b-3858-dcf1-0075-92ef02b30d05 >}}) |  {{< br >}}{{< br >}} How much is intelligence determined by our childhood environment vs. our genetics? Are there things we can do later in life to become more intelligent? What exactly is intelligence, anyway? This session explores the strengths and weaknesses of IQ testing, various models of intelligence, some underlying neural mechanisms, the influences of nature and nurture on intelligence, and perspectives on influences of race, effort, and practice. {{< br >}}{{< br >}} _Keywords_: IQ, testing, education, Flynn effect, nature vs. nurture, acheivement gap, stereotype threat, Head Start {{< br >}}{{< br >}} _How well do standardized tests measure intelligence? (Photo courtesy of [biologycorner](http://www.flickr.com/photos/40964293@N07/4728093020) on Flickr. License CC BY-NC.)_ {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![Photo of a person filling in answers on a computer-graded test answer sheet.]({{< resource_file 05b61f8b-3858-dcf1-0075-92ef02b30d05 >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+How much is intelligence determined by our childhood environment vs. our genetics? Are there things we can do later in life to become more intelligent? What exactly is intelligence, anyway? This session explores the strengths and weaknesses of IQ testing, various models of intelligence, some underlying neural mechanisms, the influences of nature and nurture on intelligence, and perspectives on influences of race, effort, and practice.
+
+_Keywords_: IQ, testing, education, Flynn effect, nature vs. nurture, acheivement gap, stereotype threat, Head Start
+
+_How well do standardized tests measure intelligence? (Photo courtesy of [biologycorner](http://www.flickr.com/photos/40964293@N07/4728093020) on Flickr. License CC BY-NC.)_
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Session Activities
 ------------------
@@ -102,10 +121,59 @@ Further Study
 
 These optional resources are provided for students that wish to explore this topic more fully.
 
-| TYPE | CONTENT | CONTEXT |
-| --- | --- | --- |
-| Supplemental video | jayrandall22011. "Talking Twin Babies – Part 2." Feb. 14, 2011. YouTube. Accessed Jan. 9, 2012. [http://www.youtube.com/watch?v=\_JmA2ClUvUY](http://www.youtube.com/watch?v=_JmA2ClUvUY) | Mentioned at about minute 36 in lecture – "two twins babbling, demonstrative…" |
-| Supplemental video | StanfordSCOPE. "Claude Steele on Stereotype Threat." Nov. 23, 2011. YouTube. Accessed March 9, 2012. [http://www.youtube.com/watch?v=vvwvvbiwRkg](http://www.youtube.com/watch?v=vvwvvbiwRkg) | Brief interview with Prof. Steele, whose research first identified the stereotype threat effect on acheivement gaps. |
-| Textbook supplement | Study materials for Ch. 9 "Types of Intelligence: What Does It Mean To Be Smart?" In [Kosslyn & Rosenberg, _Psychology in Context_, 3/e](http://www.pearsonhighered.com/educator/product/Fundamentals-of-Psychology-in-Context/9780205507573.page) (Pearson, 2007) | Practice test questions, flashcards, and media for a related textbook 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+TYPE
+{{< thclose >}}
+{{< thopen >}}
+CONTENT
+{{< thclose >}}
+{{< thopen >}}
+CONTEXT
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Supplemental video
+{{< tdclose >}}
+{{< tdopen >}}
+jayrandall22011. "Talking Twin Babies – Part 2." Feb. 14, 2011. YouTube. Accessed Jan. 9, 2012. [http://www.youtube.com/watch?v=\_JmA2ClUvUY](http://www.youtube.com/watch?v=_JmA2ClUvUY)
+{{< tdclose >}}
+{{< tdopen >}}
+Mentioned at about minute 36 in lecture – "two twins babbling, demonstrative…"
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Supplemental video
+{{< tdclose >}}
+{{< tdopen >}}
+StanfordSCOPE. "Claude Steele on Stereotype Threat." Nov. 23, 2011. YouTube. Accessed March 9, 2012. [http://www.youtube.com/watch?v=vvwvvbiwRkg](http://www.youtube.com/watch?v=vvwvvbiwRkg)
+{{< tdclose >}}
+{{< tdopen >}}
+Brief interview with Prof. Steele, whose research first identified the stereotype threat effect on acheivement gaps.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Textbook supplement
+{{< tdclose >}}
+{{< tdopen >}}
+Study materials for Ch. 9 "Types of Intelligence: What Does It Mean To Be Smart?" In [Kosslyn & Rosenberg, _Psychology in Context_, 3/e](http://www.pearsonhighered.com/educator/product/Fundamentals-of-Psychology-in-Context/9780205507573.page) (Pearson, 2007)
+{{< tdclose >}}
+{{< tdopen >}}
+Practice test questions, flashcards, and media for a related textbook
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 « [Previous]({{< baseurl >}}/pages/thinking) | [Next]({{< baseurl >}}/pages/emotion-motivation) »

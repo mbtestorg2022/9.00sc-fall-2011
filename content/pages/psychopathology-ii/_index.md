@@ -9,7 +9,27 @@ uid: efd8e956-049b-f53f-d560-dda29527618d
 Session Overview
 ----------------
 
-| ![Self-portrait painting of Vincent Van Gogh with bandaged ear.]({{< resource_file b10f6921-06c4-a652-3cfc-d21f56dce29b >}}) |  {{< br >}}{{< br >}} How are mental disorders diagnosed and treated? This session explores the two main categories of psychological treatment – behavioral therapies and medical (drug) therapies. For OCD, depression and ADHD, we'll look at the current scientific understanding of these disorders and compare methods of treatment. {{< br >}}{{< br >}} _Keywords:_ psychotherapy, psychoanalysis, diagnosis, medication, psychopharmacology, CBT, depression, OCD, ADHD, ADD, Ritalin {{< br >}}{{< br >}} _Image: "Self-Portrait with Bandaged Ear," Vincent Van Gogh (1889).  {{< br >}}_ {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![Self-portrait painting of Vincent Van Gogh with bandaged ear.]({{< resource_file b10f6921-06c4-a652-3cfc-d21f56dce29b >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+How are mental disorders diagnosed and treated? This session explores the two main categories of psychological treatment – behavioral therapies and medical (drug) therapies. For OCD, depression and ADHD, we'll look at the current scientific understanding of these disorders and compare methods of treatment.
+
+_Keywords:_ psychotherapy, psychoanalysis, diagnosis, medication, psychopharmacology, CBT, depression, OCD, ADHD, ADD, Ritalin
+
+_Image: "Self-Portrait with Bandaged Ear," Vincent Van Gogh (1889).  
+_
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Session Activities
 ------------------
@@ -57,10 +77,59 @@ Further Study
 
 These optional resources are provided for students that wish to explore this topic more fully.
 
-| TYPE | CONTENT | CONTEXT |
-| --- | --- | --- |
-| Supplemental videos | [_The World of Abnormal Psychology_](https://www.learner.org/series/the-world-of-abnormal-psychology/). Annenberg Learner, 1992. | 13 1-hour videos on various psychopathology topics |
-| Supplemental video | NIMH.gov. "ADHD: Signs, Symptoms, Research." Sept. 10, 2010. YouTube. Accessed March 9, 2012. [http://www.youtube.com/watch?v=IgCL79Jv0lc](http://www.youtube.com/watch?v=IgCL79Jv0lc) | Video about ADHD by the U.S. National Institute of Mental Health. |
-| Textbook supplement | Study materials for Ch. 15, "Psychological Disorders: Healing Actions, Healing Words." In [Kosslyn & Rosenberg, _Psychology in Context_, 3/e](http://www.pearsonhighered.com/educator/product/Fundamentals-of-Psychology-in-Context/9780205507573.page) (Pearson, 2007) | Practice test questions, flashcards, and media for this related textbook 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+TYPE
+{{< thclose >}}
+{{< thopen >}}
+CONTENT
+{{< thclose >}}
+{{< thopen >}}
+CONTEXT
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Supplemental videos
+{{< tdclose >}}
+{{< tdopen >}}
+[_The World of Abnormal Psychology_](https://www.learner.org/series/the-world-of-abnormal-psychology/). Annenberg Learner, 1992.
+{{< tdclose >}}
+{{< tdopen >}}
+13 1-hour videos on various psychopathology topics
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Supplemental video
+{{< tdclose >}}
+{{< tdopen >}}
+NIMH.gov. "ADHD: Signs, Symptoms, Research." Sept. 10, 2010. YouTube. Accessed March 9, 2012. [http://www.youtube.com/watch?v=IgCL79Jv0lc](http://www.youtube.com/watch?v=IgCL79Jv0lc)
+{{< tdclose >}}
+{{< tdopen >}}
+Video about ADHD by the U.S. National Institute of Mental Health.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Textbook supplement
+{{< tdclose >}}
+{{< tdopen >}}
+Study materials for Ch. 15, "Psychological Disorders: Healing Actions, Healing Words." In [Kosslyn & Rosenberg, _Psychology in Context_, 3/e](http://www.pearsonhighered.com/educator/product/Fundamentals-of-Psychology-in-Context/9780205507573.page) (Pearson, 2007)
+{{< tdclose >}}
+{{< tdopen >}}
+Practice test questions, flashcards, and media for this related textbook
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 « [Previous]({{< baseurl >}}/pages/psychopathology-i) | [Next]({{< baseurl >}}/pages/social-psychology-i) »

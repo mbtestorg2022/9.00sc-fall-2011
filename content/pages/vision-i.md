@@ -9,7 +9,26 @@ uid: 6006b7d1-2269-c4a2-b231-88660361c816
 Session Overview
 ----------------
 
-| ![Schematic diagram of the binocular visual field mapped to eyes and optic nerves, extended through a horizontal section of brain depicting LGN, optic radiation, and primary visual cortex.]({{< resource_file f464a2c8-0ae3-afc4-b8cf-abc27e724b06 >}}) |  {{< br >}}{{< br >}} How do we visualize our environment? What problems must the visual system overcome? Upon completion of the session, you will have a better understanding of human perceptual abilities and how the neural substrates of vision are organized in the brain. {{< br >}}{{< br >}} _Keywords:_ vision, perception, optical illusions, color, light {{< br >}}{{< br >}} _Image by MIT OpenCourseWare. After Figure 10-4b in Bear, Mark F., Barry W. Connors, and Michael A. Paradiso. _Neuroscience: Exploring the Brain_. 3rd ed. Lippincott Williams & Wilkins, 2007. ISBN: 9780781760034._ {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![Schematic diagram of the binocular visual field mapped to eyes and optic nerves, extended through a horizontal section of brain depicting LGN, optic radiation, and primary visual cortex.]({{< resource_file f464a2c8-0ae3-afc4-b8cf-abc27e724b06 >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+How do we visualize our environment? What problems must the visual system overcome? Upon completion of the session, you will have a better understanding of human perceptual abilities and how the neural substrates of vision are organized in the brain.
+
+_Keywords:_ vision, perception, optical illusions, color, light
+
+_Image by MIT OpenCourseWare. After Figure 10-4b in Bear, Mark F., Barry W. Connors, and Michael A. Paradiso. _Neuroscience: Exploring the Brain_. 3rd ed. Lippincott Williams & Wilkins, 2007. ISBN: 9780781760034._
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Session Activities
 ------------------
@@ -66,9 +85,47 @@ Further Study
 
 These optional resources are provided for students that wish to explore this topic more fully.
 
-| TYPE | CONTENT | CONTEXT |
-| --- | --- | --- |
-| Website | [Schiller Lab](http://web.mit.edu/bcs/schillerlab/) | Lab focused on the workings of the visual and oculomotor systems of human and non-human primates. |
-| Textbook supplement | Study materials for Chapter 3, "Psychology Sensation and Perception: How the World Enters the Mind," in [Study Site for _Psychology in Context_](http://www.pearsonhighered.com/educator/product/Fundamentals-of-Psychology-in-Context/9780205507573.page), 3/e (Pearsonn Education, 2007) | Practice test questions, flashcards, and media for a related textbook by Kosslyn & Rosenberg 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+TYPE
+{{< thclose >}}
+{{< thopen >}}
+CONTENT
+{{< thclose >}}
+{{< thopen >}}
+CONTEXT
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Website
+{{< tdclose >}}
+{{< tdopen >}}
+[Schiller Lab](http://web.mit.edu/bcs/schillerlab/)
+{{< tdclose >}}
+{{< tdopen >}}
+Lab focused on the workings of the visual and oculomotor systems of human and non-human primates.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Textbook supplement
+{{< tdclose >}}
+{{< tdopen >}}
+Study materials for Chapter 3, "Psychology Sensation and Perception: How the World Enters the Mind," in [Study Site for _Psychology in Context_](http://www.pearsonhighered.com/educator/product/Fundamentals-of-Psychology-in-Context/9780205507573.page), 3/e (Pearsonn Education, 2007)
+{{< tdclose >}}
+{{< tdopen >}}
+Practice test questions, flashcards, and media for a related textbook by Kosslyn & Rosenberg
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 « [Previous]({{< baseurl >}}/pages/brain-ii) | [Next]({{< baseurl >}}/pages/vision-ii) »

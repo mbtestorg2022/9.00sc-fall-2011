@@ -9,7 +9,26 @@ uid: 5eb89b5f-35aa-cb6b-620a-28b7c73d5d21
 Session Overview
 ----------------
 
-| ![Photo of three glasses of liquid, one blue, one orange, and one vertically split between the two colors.]({{< resource_file 071e94d8-4f2b-93fb-8c2f-2c05603d032b >}}) |  {{< br >}}{{< br >}} What type of personality do you have? What factors can influence our personality? In this session, we will study different types of personalities, the ways in which we measure personality, and how cognition and learning can contribute to make us unique individuals.  {{< br >}}{{< br >}} _Keywords_: personality, the Big Five Inventory (BFI), nature and nurture, temperament, Eyesenck, Yerkes-Dodson Law, genetics {{< br >}}{{< br >}} _A personality trait can be thought of as a spectrum with most of us somewhere in the middle. (Image by [nickwheeleroz](http://www.flickr.com/photos/nickwheeleroz/) on Flickr. License: CC-BY-NC-SA.)_ {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![Photo of three glasses of liquid, one blue, one orange, and one vertically split between the two colors.]({{< resource_file 071e94d8-4f2b-93fb-8c2f-2c05603d032b >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+What type of personality do you have? What factors can influence our personality? In this session, we will study different types of personalities, the ways in which we measure personality, and how cognition and learning can contribute to make us unique individuals. 
+
+_Keywords_: personality, the Big Five Inventory (BFI), nature and nurture, temperament, Eyesenck, Yerkes-Dodson Law, genetics
+
+_A personality trait can be thought of as a spectrum with most of us somewhere in the middle. (Image by [nickwheeleroz](http://www.flickr.com/photos/nickwheeleroz/) on Flickr. License: CC-BY-NC-SA.)_
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Session Activities
 ------------------
@@ -92,9 +111,47 @@ Further Study
 
 These optional resources are provided for students that wish to explore this topic more fully.
 
-| TYPE | CONTENT | CONTEXT |
-| --- | --- | --- |
-| Book | Kluckhorn, C. and Murray, H. _Personality in Nature, Society, and Culture_. Alfred A. Knopf, 1953. | Classic in the field, Prof. Gabrieli started the lecture with a quote from this book |
-| Textbook supplement | Study materials for Ch. 11, "Personality: Vive la difference!" In [Kosslyn & Rosenberg, _Psychology in Context_, 3/e](http://www.pearsonhighered.com/educator/product/Fundamentals-of-Psychology-in-Context/9780205507573.page) (Pearson, 2007) | Practice test questions, flashcards, and media for a related textbook 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+TYPE
+{{< thclose >}}
+{{< thopen >}}
+CONTENT
+{{< thclose >}}
+{{< thopen >}}
+CONTEXT
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Book
+{{< tdclose >}}
+{{< tdopen >}}
+Kluckhorn, C. and Murray, H. _Personality in Nature, Society, and Culture_. Alfred A. Knopf, 1953.
+{{< tdclose >}}
+{{< tdopen >}}
+Classic in the field, Prof. Gabrieli started the lecture with a quote from this book
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Textbook supplement
+{{< tdclose >}}
+{{< tdopen >}}
+Study materials for Ch. 11, "Personality: Vive la difference!" In [Kosslyn & Rosenberg, _Psychology in Context_, 3/e](http://www.pearsonhighered.com/educator/product/Fundamentals-of-Psychology-in-Context/9780205507573.page) (Pearson, 2007)
+{{< tdclose >}}
+{{< tdopen >}}
+Practice test questions, flashcards, and media for a related textbook
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 « [Previous]({{< baseurl >}}/pages/exam-2) | [Next]({{< baseurl >}}/pages/child-development) »

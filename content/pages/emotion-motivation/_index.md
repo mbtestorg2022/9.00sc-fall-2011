@@ -9,7 +9,26 @@ uid: b4449121-7bca-c751-42a3-a4cbf60a35fa
 Session Overview
 ----------------
 
-| ![Image of a fearful face.]({{< resource_file 188e6abc-51a9-645f-def1-4a938edc4308 >}}) |  {{< br >}}{{< br >}} How are you feeling right now? What is the neural basis for the different types of emotions we feel throughout our lives? In this lecture, we will discuss the components of emotion, the ways in which we express emotion, and the parts of the brain that are in involved in emotional processing, regulation, and perception. {{< br >}}{{< br >}} _Keywords_: emotions, amygdala, fear, arousal, facial feedback, fear conditioning, emotion and memory, disgust, insula, William James {{< br >}}{{< br >}} _Reprinted by permission from Macmillan Publishers Ltd: Nature Neuroscience. Source: Susskind, J., et al. "Expressing Fear Enhances Sensory Acquisition." Nature Neuroscience 11, no. 7 (2008): 843–50. © 2008._ {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![Image of a fearful face.]({{< resource_file 188e6abc-51a9-645f-def1-4a938edc4308 >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+How are you feeling right now? What is the neural basis for the different types of emotions we feel throughout our lives? In this lecture, we will discuss the components of emotion, the ways in which we express emotion, and the parts of the brain that are in involved in emotional processing, regulation, and perception.
+
+_Keywords_: emotions, amygdala, fear, arousal, facial feedback, fear conditioning, emotion and memory, disgust, insula, William James
+
+_Reprinted by permission from Macmillan Publishers Ltd: Nature Neuroscience. Source: Susskind, J., et al. "Expressing Fear Enhances Sensory Acquisition." Nature Neuroscience 11, no. 7 (2008): 843–50. © 2008._
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Session Activities
 ------------------
@@ -74,10 +93,59 @@ Further Study
 
 These optional resources are provided for students that wish to explore this topic more fully.
 
-| TYPE | CONTENT | CONTEXT |
-| --- | --- | --- |
-| TV series | ["Facing Our Fears."](http://www.pbs.org/thisemotionallife/series/episodes/2) Episode 2 from "This Emotional Life." TV series, PBS, 2010. | This episode explores the role of emotions like anger, fear, anxiety, and despair have on our lives, touching on many ideas Prof. Gabrieli goes over in lecture |
-| Website | [Paul Ekman's website](http://www.paulekman.com/) | Website of Paul Ekman, famous pioneer researcher on emotion mentioned in class |
-| Textbook supplement | Study materials for Ch. 10, "Emotion and Motivations: Feeling and Striving." In [Kosslyn & Rosenberg, _Psychology in Context_, 3/e](http://www.pearsonhighered.com/educator/product/Fundamentals-of-Psychology-in-Context/9780205507573.page) (Pearson, 2007) | Practice test questions, flashcards, and media for a related textbook 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+TYPE
+{{< thclose >}}
+{{< thopen >}}
+CONTENT
+{{< thclose >}}
+{{< thopen >}}
+CONTEXT
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+TV series
+{{< tdclose >}}
+{{< tdopen >}}
+["Facing Our Fears."](http://www.pbs.org/thisemotionallife/series/episodes/2) Episode 2 from "This Emotional Life." TV series, PBS, 2010.
+{{< tdclose >}}
+{{< tdopen >}}
+This episode explores the role of emotions like anger, fear, anxiety, and despair have on our lives, touching on many ideas Prof. Gabrieli goes over in lecture
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Website
+{{< tdclose >}}
+{{< tdopen >}}
+[Paul Ekman's website](http://www.paulekman.com/)
+{{< tdclose >}}
+{{< tdopen >}}
+Website of Paul Ekman, famous pioneer researcher on emotion mentioned in class
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Textbook supplement
+{{< tdclose >}}
+{{< tdopen >}}
+Study materials for Ch. 10, "Emotion and Motivations: Feeling and Striving." In [Kosslyn & Rosenberg, _Psychology in Context_, 3/e](http://www.pearsonhighered.com/educator/product/Fundamentals-of-Psychology-in-Context/9780205507573.page) (Pearson, 2007)
+{{< tdclose >}}
+{{< tdopen >}}
+Practice test questions, flashcards, and media for a related textbook
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 « [Previous]({{< baseurl >}}/pages/intelligence) | [Next]({{< baseurl >}}/pages/exam-2) »

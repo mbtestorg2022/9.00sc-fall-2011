@@ -66,9 +66,71 @@ _Positive punishment_ is when something bad is introduced in order to shape beha
 
 As you grapple with these somewhat confusing terms, try to add your own examples to the chart:
 
-| &nbsp; | REINFORCEMENT | PUNISHMENT |
-| --- | --- | --- |
-| **Positive** |  {{< br >}}{{< br >}} *   If you do good science, you win a Nobel Prize {{< br >}}{{< br >}}  {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} *   If a child is naughty, he gets a spanking {{< br >}}{{< br >}}  {{< br >}}{{< br >}}  |
-| **Negative** |  {{< br >}}{{< br >}} *   If you pass the first quiz, you don't have to take the second quiz {{< br >}}{{< br >}}  {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} *   If you commit a crime, you lose your freedom {{< br >}}{{< br >}}  {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ 
+{{< thclose >}}
+{{< thopen >}}
+REINFORCEMENT
+{{< thclose >}}
+{{< thopen >}}
+PUNISHMENT
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Positive**
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   If you do good science, you win a Nobel Prize
+
+
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   If a child is naughty, he gets a spanking
+
+
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Negative**
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   If you pass the first quiz, you don't have to take the second quiz
+
+
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   If you commit a crime, you lose your freedom
+
+
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 « [Previous]({{< baseurl >}}/pages/learning)

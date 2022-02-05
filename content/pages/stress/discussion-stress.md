@@ -22,11 +22,98 @@ The stimulus that causes stress can be either external (in the world) or interna
 
 Complete this chart with your own examples of different types of stressors:
 
-| STRESSOR | ACUTE | CHRONIC |
-| --- | --- | --- |
-| Physical |  {{< br >}}{{< br >}} *   Being injured in a car crash {{< br >}}{{< br >}}  {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} *   Being malnourished{{< br >}}*   Having cancer {{< br >}}{{< br >}}  {{< br >}}{{< br >}}  |
-| Psychological |  {{< br >}}{{< br >}} *   Working against a deadline {{< br >}}{{< br >}}  {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} *   Feeling constant pressure at work {{< br >}}{{< br >}}  {{< br >}}{{< br >}}  |
-| Social |  {{< br >}}{{< br >}} *   Being humiliated {{< br >}}{{< br >}}  {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} *   Isolation{{< br >}}*   Overcrowding {{< br >}}{{< br >}}  {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+STRESSOR
+{{< thclose >}}
+{{< thopen >}}
+ACUTE
+{{< thclose >}}
+{{< thopen >}}
+CHRONIC
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Physical
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   Being injured in a car crash
+
+
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   Being malnourished
+*   Having cancer
+
+
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Psychological
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   Working against a deadline
+
+
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   Feeling constant pressure at work
+
+
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Social
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   Being humiliated
+
+
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   Isolation
+*   Overcrowding
+
+
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 For example, how would you characterize sleep deprivation? How about addiction?
 

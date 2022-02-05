@@ -9,7 +9,26 @@ uid: 0f5b6ec8-73d9-1de3-c9a7-12f95930c2bf
 Session Overview
 ----------------
 
-| ![Cartoon of two people speaking to each other, one asking question (English, monolingual), and one replying (multi-lingual, showing several country flags).](/courses/brain-and-cognitive-sciences/9-00sc-introduction-to-psychology-fall-2011/language-1/lec12_chp.jpg) |  {{< br >}}{{< br >}} Language is an amazing thing. How do we learn and use language in our everyday lives? How does the brain make this happen? This session explores the brain basis of language perception and comprehension, how language contributes to our understanding of our environment, and how we learn languages. {{< br >}}{{< br >}} _Keywords_: phoneme, speech, comprehension, hearing, writing, reading, phonology, syntax, evoked response potential (ERP), meaning, pragmatics, aphasia, language acquisition {{< br >}}{{< br >}} _Image courtesy of [zinjixmaggir](http://www.flickr.com/photos/dilaudid/4954719152/) on Flickr (aka Markus Koljonen, [http://iki.fi/markus.koljonen](http://iki.fi/markus.koljonen))._ {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![Cartoon of two people speaking to each other, one asking question (English, monolingual), and one replying (multi-lingual, showing several country flags).](/courses/brain-and-cognitive-sciences/9-00sc-introduction-to-psychology-fall-2011/language-1/lec12_chp.jpg)
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Language is an amazing thing. How do we learn and use language in our everyday lives? How does the brain make this happen? This session explores the brain basis of language perception and comprehension, how language contributes to our understanding of our environment, and how we learn languages.
+
+_Keywords_: phoneme, speech, comprehension, hearing, writing, reading, phonology, syntax, evoked response potential (ERP), meaning, pragmatics, aphasia, language acquisition
+
+_Image courtesy of [zinjixmaggir](http://www.flickr.com/photos/dilaudid/4954719152/) on Flickr (aka Markus Koljonen, [http://iki.fi/markus.koljonen](http://iki.fi/markus.koljonen))._
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Session Activities
 ------------------
@@ -107,12 +126,83 @@ Further Study
 
 These optional resources are provided for students that wish to explore this topic more fully.
 
-| TYPE | CONTENT | CONTEXT |
-| --- | --- | --- |
-| Supplemental reading | Crystal, D. _How Language Works: How Babies Babble, Words Change Meaning, and Languages Live Or Die_. Penguin, 2007. ISBN: 9781583332917. \[Preview with [Google Books](http://books.google.com/books?id=f1DVuMvbf7IC&pg=PAfrontcover)\] | An introduction to lingustics written for the layperson, recommended by the TAs. |
-| Blog | [Language Log](http://languagelog.ldc.upenn.edu/nll/) | Covers language in current events, run by University of Pennsylvania phonetician Mark Liberman with multiple guest linguists |
-| Web resource | Lewis, M. Paul (editor). [_Ethnologue: Languages of the World_](http://www.ethnologue.com/). Sixteenth edition. SIL International, 2009. | Reference work on languages of the world, with web resources and preview pages of print edition |
-| Wikipedia | [Genie (feral child)](http://en.wikipedia.org/wiki/Genie_%28feral_child%29) | Example discussed at end of class. |
-| Textbook supplement | Study materials for Ch. 8 "Language and Thinking: What Humans Do Best." In [Kosslyn & Rosenberg, _Psychology in Context_, 3/e](http://www.pearsonhighered.com/educator/product/Fundamentals-of-Psychology-in-Context/9780205507573.page) (Pearson, 2007) | Practice test questions, flashcards, and media for a related textbook 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+TYPE
+{{< thclose >}}
+{{< thopen >}}
+CONTENT
+{{< thclose >}}
+{{< thopen >}}
+CONTEXT
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Supplemental reading
+{{< tdclose >}}
+{{< tdopen >}}
+Crystal, D. _How Language Works: How Babies Babble, Words Change Meaning, and Languages Live Or Die_. Penguin, 2007. ISBN: 9781583332917. \[Preview with [Google Books](http://books.google.com/books?id=f1DVuMvbf7IC&pg=PAfrontcover)\]
+{{< tdclose >}}
+{{< tdopen >}}
+An introduction to lingustics written for the layperson, recommended by the TAs.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Blog
+{{< tdclose >}}
+{{< tdopen >}}
+[Language Log](http://languagelog.ldc.upenn.edu/nll/)
+{{< tdclose >}}
+{{< tdopen >}}
+Covers language in current events, run by University of Pennsylvania phonetician Mark Liberman with multiple guest linguists
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Web resource
+{{< tdclose >}}
+{{< tdopen >}}
+Lewis, M. Paul (editor). [_Ethnologue: Languages of the World_](http://www.ethnologue.com/). Sixteenth edition. SIL International, 2009.
+{{< tdclose >}}
+{{< tdopen >}}
+Reference work on languages of the world, with web resources and preview pages of print edition
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Wikipedia
+{{< tdclose >}}
+{{< tdopen >}}
+[Genie (feral child)](http://en.wikipedia.org/wiki/Genie_%28feral_child%29)
+{{< tdclose >}}
+{{< tdopen >}}
+Example discussed at end of class.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Textbook supplement
+{{< tdclose >}}
+{{< tdopen >}}
+Study materials for Ch. 8 "Language and Thinking: What Humans Do Best." In [Kosslyn & Rosenberg, _Psychology in Context_, 3/e](http://www.pearsonhighered.com/educator/product/Fundamentals-of-Psychology-in-Context/9780205507573.page) (Pearson, 2007)
+{{< tdclose >}}
+{{< tdopen >}}
+Practice test questions, flashcards, and media for a related textbook
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 « [Previous]({{< baseurl >}}/pages/memory-ii) | [Next]({{< baseurl >}}/pages/thinking) »

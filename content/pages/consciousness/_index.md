@@ -9,7 +9,26 @@ uid: 504a0556-a3d6-731e-b23a-dd60493cf4d4
 Session Overview
 ----------------
 
-| ![Satellite image of Earth with the left half nearly blacked out.]({{< resource_file 3e4eb25c-70d3-4d65-e687-9ada0e2cdc5d >}}) |  {{< br >}}{{< br >}} What can happen if the connection between the brain and the visual system is disrupted or damaged? What can cause patients to act as if part of their world not only doesn't exist, but couldn't exist? In this lecture, we will discuss blindsight and neglect and see how studies on these patients have provided insights on how our brains receive and interpret information about the world. {{< br >}}{{< br >}} _Keywords_: blindsight, neglect, attention, extinction, visuospatial agnosia, hemispatial neglect, anosagnosia, right and left inattentive, parietal cortex, temporal cortex, representational theory, M. Posner. {{< br >}}{{< br >}} _Image courtesy of [NASA Goddard Photo and Video](http://www.flickr.com/photos/24662369@N07/6760135001) under a CC-BY license._ {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![Satellite image of Earth with the left half nearly blacked out.]({{< resource_file 3e4eb25c-70d3-4d65-e687-9ada0e2cdc5d >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+What can happen if the connection between the brain and the visual system is disrupted or damaged? What can cause patients to act as if part of their world not only doesn't exist, but couldn't exist? In this lecture, we will discuss blindsight and neglect and see how studies on these patients have provided insights on how our brains receive and interpret information about the world.
+
+_Keywords_: blindsight, neglect, attention, extinction, visuospatial agnosia, hemispatial neglect, anosagnosia, right and left inattentive, parietal cortex, temporal cortex, representational theory, M. Posner.
+
+_Image courtesy of [NASA Goddard Photo and Video](http://www.flickr.com/photos/24662369@N07/6760135001) under a CC-BY license._
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Session Activities
 ------------------
@@ -47,9 +66,47 @@ Further Study
 
 These optional resources are provided for students that wish to explore this topic more fully.
 
-| TYPE | CONTENT | CONTEXT |
-| --- | --- | --- |
-| Further reading | de Gelder, Beatrice. "Uncanny Sight in the Blind." Scientific American, 2010. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://beatricedegelder.com/documents/Uncannysightintheblind.pdf)) | Article discussing a patient Prof. Gabrieli goes over in lecture |
-| Video | ["A Blind Monkey Who Sees Everything."](http://www.youtube.com/all_comments?v=rDIsxwQHwt8) Filmed by Nicholas Humphrey, Cambridge, 1971. | A 1971 movie of Helen, a blind monkey circumnavigating obstacles 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+TYPE
+{{< thclose >}}
+{{< thopen >}}
+CONTENT
+{{< thclose >}}
+{{< thopen >}}
+CONTEXT
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Further reading
+{{< tdclose >}}
+{{< tdopen >}}
+de Gelder, Beatrice. "Uncanny Sight in the Blind." Scientific American, 2010. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://beatricedegelder.com/documents/Uncannysightintheblind.pdf))
+{{< tdclose >}}
+{{< tdopen >}}
+Article discussing a patient Prof. Gabrieli goes over in lecture
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Video
+{{< tdclose >}}
+{{< tdopen >}}
+["A Blind Monkey Who Sees Everything."](http://www.youtube.com/all_comments?v=rDIsxwQHwt8) Filmed by Nicholas Humphrey, Cambridge, 1971.
+{{< tdclose >}}
+{{< tdopen >}}
+A 1971 movie of Helen, a blind monkey circumnavigating obstacles
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 « [Previous]({{< baseurl >}}/pages/attention) | [Next]({{< baseurl >}}/pages/learning) »

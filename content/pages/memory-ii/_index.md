@@ -9,7 +9,27 @@ uid: 09f6f277-0863-76d7-7bf9-7f807f53d99f
 Session Overview
 ----------------
 
-| ![Cartoon of someone who has just been 'amnesiacked.']({{< resource_file 8762e033-f062-4288-e898-9810f5d90f90 >}}) |  {{< br >}}{{< br >}} What conditions can impair your memory? How is your memory affected by these impairments? In this lecture, we will study amnesia, how it can influence our memory systems and how amnesia patients have helped us pinpoint areas in the brain crucial to memory. A particular highlight of this session is Prof. Gabrieli’s stories of working as a graduate student directly the famous amnesiac patient H. M. {{< br >}}{{< br >}} _Keywords:_ memory systems, amnesia, anterograde amnesia, retrograde amnesia, hippocampus, Huntington's disease, patient H.M., declarative memory, procedural memory {{< br >}}{{< br >}} _Cartoon of someone who has just been 'amnesiacked.' (Image by MIT OpenCourseWare).  {{< br >}}_ {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![Cartoon of someone who has just been 'amnesiacked.']({{< resource_file 8762e033-f062-4288-e898-9810f5d90f90 >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+What conditions can impair your memory? How is your memory affected by these impairments? In this lecture, we will study amnesia, how it can influence our memory systems and how amnesia patients have helped us pinpoint areas in the brain crucial to memory. A particular highlight of this session is Prof. Gabrieli’s stories of working as a graduate student directly the famous amnesiac patient H. M.
+
+_Keywords:_ memory systems, amnesia, anterograde amnesia, retrograde amnesia, hippocampus, Huntington's disease, patient H.M., declarative memory, procedural memory
+
+_Cartoon of someone who has just been 'amnesiacked.' (Image by MIT OpenCourseWare).  
+_
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Session Activities
 ------------------
@@ -80,9 +100,47 @@ Further Study
 
 These optional resources are provided for students that wish to explore this topic more fully.
 
-| TYPE | CONTENT | CONTEXT |
-| --- | --- | --- |
-| Supplemental reading | Sacks, Oliver. ["The Abyss: Music and Amnesia."](http://www.newyorker.com/reporting/2007/09/24/070924fa_fact_sacks) The New Yorker, 2007. | An article by Oliver Sacks about an individual with retrograde amnesia and his wife. |
-| Blog post | Neurophilosophy blogger. ["Amnesia in the movies."](http://scienceblogs.com/neurophilosophy/2009/03/02/amnesia-in-the-movies/) Scienceblogs.com, 2009. | Prof. Gabrieli talks about how inaccurate most portrayals of amnesia in popular media are; this article gives some examples of movies that get it right. 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+TYPE
+{{< thclose >}}
+{{< thopen >}}
+CONTENT
+{{< thclose >}}
+{{< thopen >}}
+CONTEXT
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Supplemental reading
+{{< tdclose >}}
+{{< tdopen >}}
+Sacks, Oliver. ["The Abyss: Music and Amnesia."](http://www.newyorker.com/reporting/2007/09/24/070924fa_fact_sacks) The New Yorker, 2007.
+{{< tdclose >}}
+{{< tdopen >}}
+An article by Oliver Sacks about an individual with retrograde amnesia and his wife.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Blog post
+{{< tdclose >}}
+{{< tdopen >}}
+Neurophilosophy blogger. ["Amnesia in the movies."](http://scienceblogs.com/neurophilosophy/2009/03/02/amnesia-in-the-movies/) Scienceblogs.com, 2009.
+{{< tdclose >}}
+{{< tdopen >}}
+Prof. Gabrieli talks about how inaccurate most portrayals of amnesia in popular media are; this article gives some examples of movies that get it right.
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 « [Previous]({{< baseurl >}}/pages/memory-i) | [Next]({{< baseurl >}}/pages/language-1) »

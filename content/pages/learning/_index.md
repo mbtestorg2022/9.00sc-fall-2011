@@ -9,7 +9,26 @@ uid: ac69f1eb-8793-b39a-98cb-15527df3770a
 Session Overview
 ----------------
 
-| ![Brain image highlighting a small region of activity (parahippocampal cortex), and caption Ready to Learn.]({{< resource_file 5296d964-3245-796a-184a-afd4108a4252 >}}) |  {{< br >}}{{< br >}} How do we learn? How do the things we learn help us to survive and successfully interact with our environment? In this session, we will examine different types of learning, from classical conditioning to more complex models of learning, and how they fit into our everyday lives. Related concepts like learned helplessness and delayed gratification will also be examined. {{< br >}}{{< br >}} _Keywords_: classical conditioning, operant conditioning, Ivan Pavlov, extinction, generalization, Little Albert, learned helplessness, E. L. Thorndike, delayed gratification {{< br >}}{{< br >}} _Courtesy of Julie Yoo. Used with permission._ {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![Brain image highlighting a small region of activity (parahippocampal cortex), and caption Ready to Learn.]({{< resource_file 5296d964-3245-796a-184a-afd4108a4252 >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+How do we learn? How do the things we learn help us to survive and successfully interact with our environment? In this session, we will examine different types of learning, from classical conditioning to more complex models of learning, and how they fit into our everyday lives. Related concepts like learned helplessness and delayed gratification will also be examined.
+
+_Keywords_: classical conditioning, operant conditioning, Ivan Pavlov, extinction, generalization, Little Albert, learned helplessness, E. L. Thorndike, delayed gratification
+
+_Courtesy of Julie Yoo. Used with permission._
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Session Activities
 ------------------
@@ -78,9 +97,47 @@ Further Study
 
 These optional resources are provided for students that wish to explore this topic more fully.
 
-| TYPE | CONTENT | CONTEXT |
-| --- | --- | --- |
-| Supplemental reading | [An online version](http://psychclassics.yorku.ca/Thorndike/Animal/) of Thorndike, E. _Animal Intelligence: Experimental Studies_. The Macmillan Company, 1911. Accessed via "[Classics in the History of Psychology](http://psychclassics.yorku.ca/index.htm)" by C. Green. | Book written by Thorndike touching on several topics discussed in lecture |
-| Textbook supplement | Study materials for Ch. 6 "Learning: How Experience Changes Us." In [Kosslyn & Rosenberg, _Psychology in Context_, 3/e](http://www.pearsonhighered.com/educator/product/Fundamentals-of-Psychology-in-Context/9780205507573.page) (Pearson, 2007) | Practice test questions, flashcards, and media for a related textbook 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+TYPE
+{{< thclose >}}
+{{< thopen >}}
+CONTENT
+{{< thclose >}}
+{{< thopen >}}
+CONTEXT
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Supplemental reading
+{{< tdclose >}}
+{{< tdopen >}}
+[An online version](http://psychclassics.yorku.ca/Thorndike/Animal/) of Thorndike, E. _Animal Intelligence: Experimental Studies_. The Macmillan Company, 1911. Accessed via "[Classics in the History of Psychology](http://psychclassics.yorku.ca/index.htm)" by C. Green.
+{{< tdclose >}}
+{{< tdopen >}}
+Book written by Thorndike touching on several topics discussed in lecture
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Textbook supplement
+{{< tdclose >}}
+{{< tdopen >}}
+Study materials for Ch. 6 "Learning: How Experience Changes Us." In [Kosslyn & Rosenberg, _Psychology in Context_, 3/e](http://www.pearsonhighered.com/educator/product/Fundamentals-of-Psychology-in-Context/9780205507573.page) (Pearson, 2007)
+{{< tdclose >}}
+{{< tdopen >}}
+Practice test questions, flashcards, and media for a related textbook
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 « [Previous]({{< baseurl >}}/pages/consciousness) | [Next]({{< baseurl >}}/pages/exam-1) »

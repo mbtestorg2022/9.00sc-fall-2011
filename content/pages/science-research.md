@@ -9,7 +9,27 @@ uid: c4fbf121-480b-0561-6896-19683bc576cf
 Session Overview
 ----------------
 
-| ![Photo of broken windows.]({{< resource_file 944e8f93-3a52-055b-5fe3-a6506ee322d9 >}}) |  {{< br >}}{{< br >}} How do we study particular topics in psychology? How is scientific psychology different from "common sense" or "folk" psychology? This session examines the research methods necessary to develop and test ideas, and highlights how even widely-discussed scientific studies can fall short of the truth. {{< br >}}{{< br >}} _Keywords:_ scientific experiment, validity, correlation vs. causation, stimulus and response, experimenter bias, confirmation bias, common sense {{< br >}}{{< br >}} _The [broken windows theory](http://en.wikipedia.org/wiki/Broken_windows_theory) is a popular, and frequently criticized, causal linking of urban disorder and vandalism to crime rates. (Image courtesy of Grant MacDonald on Flickr.)  {{< br >}}_ {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![Photo of broken windows.]({{< resource_file 944e8f93-3a52-055b-5fe3-a6506ee322d9 >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+How do we study particular topics in psychology? How is scientific psychology different from "common sense" or "folk" psychology? This session examines the research methods necessary to develop and test ideas, and highlights how even widely-discussed scientific studies can fall short of the truth.
+
+_Keywords:_ scientific experiment, validity, correlation vs. causation, stimulus and response, experimenter bias, confirmation bias, common sense
+
+_The [broken windows theory](http://en.wikipedia.org/wiki/Broken_windows_theory) is a popular, and frequently criticized, causal linking of urban disorder and vandalism to crime rates. (Image courtesy of Grant MacDonald on Flickr.)  
+_
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Session Activities
 ------------------
@@ -79,12 +99,83 @@ Further Study
 
 These optional resources are provided for students that wish to explore this topic more fully.
 
-| TYPE | CONTENT | CONTEXT |
-| --- | --- | --- |
-| Video | "[Correlation and Causation](http://www.khanacademy.org/video/correlation-and-causality?playlist=Statistics)." Kahn Academy. | Good background on this fundamental concept in scientfic research |
-| Blog | [Bad Science](http://www.badscience.net/) | Dr. Ben Goldacre, epidemiolgist and columnist for the Guardian UK, examines "bad science \[as the\] best way to explain good science." |
-| Blog | [Neuroskeptic](http://neuroskeptic.blogspot.com/) | "A neuroscientist takes a skeptical look at his own field, and beyond." |
-| Web activity | [Research Methods: From Question to Conclusion](http://www.learner.org/discoveringpsychology/brain/). _Discovering Psychology._ WGBH Educational Foundation, 2001. | Interactive quiz about how psychological research is conducted. |
-| Textbook supplement | Study materials for Chapter 1, "Psychology: Yesterday and Today." In [Kosslyn & Rosenberg, _Psychology in Context_, 3/e](http://www.pearsonhighered.com/educator/product/Fundamentals-of-Psychology-in-Context/9780205507573.page) (Pearson, 2007) | Practice test questions, flashcards, and media for a related textbook 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+TYPE
+{{< thclose >}}
+{{< thopen >}}
+CONTENT
+{{< thclose >}}
+{{< thopen >}}
+CONTEXT
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Video
+{{< tdclose >}}
+{{< tdopen >}}
+"[Correlation and Causation](http://www.khanacademy.org/video/correlation-and-causality?playlist=Statistics)." Kahn Academy.
+{{< tdclose >}}
+{{< tdopen >}}
+Good background on this fundamental concept in scientfic research
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Blog
+{{< tdclose >}}
+{{< tdopen >}}
+[Bad Science](http://www.badscience.net/)
+{{< tdclose >}}
+{{< tdopen >}}
+Dr. Ben Goldacre, epidemiolgist and columnist for the Guardian UK, examines "bad science \[as the\] best way to explain good science."
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Blog
+{{< tdclose >}}
+{{< tdopen >}}
+[Neuroskeptic](http://neuroskeptic.blogspot.com/)
+{{< tdclose >}}
+{{< tdopen >}}
+"A neuroscientist takes a skeptical look at his own field, and beyond."
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Web activity
+{{< tdclose >}}
+{{< tdopen >}}
+[Research Methods: From Question to Conclusion](http://www.learner.org/discoveringpsychology/brain/). _Discovering Psychology._ WGBH Educational Foundation, 2001.
+{{< tdclose >}}
+{{< tdopen >}}
+Interactive quiz about how psychological research is conducted.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Textbook supplement
+{{< tdclose >}}
+{{< tdopen >}}
+Study materials for Chapter 1, "Psychology: Yesterday and Today." In [Kosslyn & Rosenberg, _Psychology in Context_, 3/e](http://www.pearsonhighered.com/educator/product/Fundamentals-of-Psychology-in-Context/9780205507573.page) (Pearson, 2007)
+{{< tdclose >}}
+{{< tdopen >}}
+Practice test questions, flashcards, and media for a related textbook
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 « [Previous]({{< baseurl >}}/pages/introduction) | [Next]({{< baseurl >}}/pages/brain-i) »

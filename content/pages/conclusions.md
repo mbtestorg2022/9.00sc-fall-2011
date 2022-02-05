@@ -9,7 +9,26 @@ uid: 28acc476-566c-2161-f7cb-e0af48ee5d80
 Session Overview
 ----------------
 
-| ![Drawing of a smiley face.]({{< resource_file 3960f2b6-b8e2-efbd-0c1b-78b10658e674 >}}) |  {{< br >}}{{< br >}} This final lecture considers psychological perspectives on human nature (evolutionary psychology) and how to live our lives (happiness). For instance, to what extent do attitudes and behaviors about sex and race have evolutionary roots? Does more money, more vacation time, or more choice actually make us happier? Can we predict what things will make us happy, and act upon those predictions? {{< br >}}{{< br >}} _Keywords_: racism, sexuality, happiness, affective forecasting, paradox of choice, positive psychology {{< br >}}{{< br >}} _Image: Public domain._ {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![Drawing of a smiley face.]({{< resource_file 3960f2b6-b8e2-efbd-0c1b-78b10658e674 >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+This final lecture considers psychological perspectives on human nature (evolutionary psychology) and how to live our lives (happiness). For instance, to what extent do attitudes and behaviors about sex and race have evolutionary roots? Does more money, more vacation time, or more choice actually make us happier? Can we predict what things will make us happy, and act upon those predictions?
+
+_Keywords_: racism, sexuality, happiness, affective forecasting, paradox of choice, positive psychology
+
+_Image: Public domain._
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Session Activities
 ------------------
@@ -40,9 +59,47 @@ Further Study
 
 These optional resources are provided for students that wish to explore this topic more fully.
 
-| TYPE | CONTENT | CONTEXT |
-| --- | --- | --- |
-| Supplemental reading | Clark, R. D., III & E. Hatfield. "Gender Differences in Receptivity to Sexual Offers." _Journal of Psychology and Human Sexuality_ 2 (1989): 39–55. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www2.hawaii.edu/~elaineh/79.pdf)) | Paper referenced in lecture video about womens' and mens' responses to three propositons (date, apartment, sex) |
-| Supplemental video | "[Dan Gilbert asks, Why are we happy?](http://www.ted.com/talks/dan_gilbert_asks_why_are_we_happy.html)" TED Talks, 2004. Accessed March 9, 2012. \[0:21:20\] | Talk by [Prof. Daniel Gilbert](http://gilbert.socialpsychology.org/), a leading researcher on happiness and affective forecasting 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+TYPE
+{{< thclose >}}
+{{< thopen >}}
+CONTENT
+{{< thclose >}}
+{{< thopen >}}
+CONTEXT
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Supplemental reading
+{{< tdclose >}}
+{{< tdopen >}}
+Clark, R. D., III & E. Hatfield. "Gender Differences in Receptivity to Sexual Offers." _Journal of Psychology and Human Sexuality_ 2 (1989): 39–55. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www2.hawaii.edu/~elaineh/79.pdf))
+{{< tdclose >}}
+{{< tdopen >}}
+Paper referenced in lecture video about womens' and mens' responses to three propositons (date, apartment, sex)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Supplemental video
+{{< tdclose >}}
+{{< tdopen >}}
+"[Dan Gilbert asks, Why are we happy?](http://www.ted.com/talks/dan_gilbert_asks_why_are_we_happy.html)" TED Talks, 2004. Accessed March 9, 2012. \[0:21:20\]
+{{< tdclose >}}
+{{< tdopen >}}
+Talk by [Prof. Daniel Gilbert](http://gilbert.socialpsychology.org/), a leading researcher on happiness and affective forecasting
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 « [Previous]({{< baseurl >}}/pages/social-psychology-ii) | [Next]({{< baseurl >}}/pages/final-exam) »

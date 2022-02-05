@@ -11,7 +11,22 @@ uid: 05a68009-c3c6-23d2-a788-f8858b6ebf30
 Session Overview
 ----------------
 
-| &nbsp; |  {{< br >}}{{< br >}} How do we think? What does it mean to be intelligent or creative? This discussion session complements the prior lecture sessions [Thinking]({{< baseurl >}}/pages/thinking) and [Intelligence]({{< baseurl >}}/pages/intelligence). {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+How do we think? What does it mean to be intelligent or creative? This discussion session complements the prior lecture sessions [Thinking]({{< baseurl >}}/pages/thinking) and [Intelligence]({{< baseurl >}}/pages/intelligence).
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Demonstration
 -------------

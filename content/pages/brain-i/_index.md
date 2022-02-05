@@ -9,7 +9,26 @@ uid: bed1d5fc-a69c-1587-2254-555a74b510d1
 Session Overview
 ----------------
 
-| ![Diagram showing side view of the human brain, with major brain regions in different colors.](/courses/brain-and-cognitive-sciences/9-00sc-introduction-to-psychology-fall-2011/brain-i/lec03_chp.jpg) |  {{< br >}}{{< br >}} How does the physical brain create the mind? This session explores how the brain's structure relates to specific mental functions. The cases of some famous patients, such as Phineas Gage and Patient H.M., demonstrate key points about the brain basis of personality and memory. {{< br >}}{{< br >}} _Keywords:_ brain structure, neurons, location of mental functions, hemispheres, Phineas Gage, Paul Broca, corpus callosum, split brain, patient H. M. {{< br >}}{{< br >}} _Image: Public domain (NIH)_ {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![Diagram showing side view of the human brain, with major brain regions in different colors.](/courses/brain-and-cognitive-sciences/9-00sc-introduction-to-psychology-fall-2011/brain-i/lec03_chp.jpg)
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+How does the physical brain create the mind? This session explores how the brain's structure relates to specific mental functions. The cases of some famous patients, such as Phineas Gage and Patient H.M., demonstrate key points about the brain basis of personality and memory.
+
+_Keywords:_ brain structure, neurons, location of mental functions, hemispheres, Phineas Gage, Paul Broca, corpus callosum, split brain, patient H. M.
+
+_Image: Public domain (NIH)_
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Session Activities
 ------------------
@@ -65,11 +84,71 @@ Further Study
 
 These optional resources are provided for students that wish to explore this topic more fully.
 
-| TYPE | CONTENT | CONTEXT |
-| --- | --- | --- |
-| Web resource | [Comparative Mammalian Brain Collections](http://www.brainmuseum.org) (aka "Brain Museum") | Resources on brain anatomy for a wide range of mammals |
-| Web resource | [The Human Brain](http://www.learner.org/discoveringpsychology/brain/). _Discovering Psychology._ WGBH Educational Foundation, 2001. | Summary exploration of the human brain, in animated Flash and non-Flash versions |
-| Supplemental reading | Wang, S., and S. Aamodt. _Welcome to Your Brain: Why You Lose Your Car Keys but Never Forget How to Drive and Other Puzzles of Everyday Life_. Bloomsbury, 2008. ISBN:9781596912830. | An overview of current understanding about the human brain, recommended by the TAs |
-| Textbook supplement | Study materials for Chapter 3, "The Biology of Mind and Behavior," in [Study Site for _Psychology in Context_, 3/e](http://www.pearsonhighered.com/educator/product/Fundamentals-of-Psychology-in-Context/9780205507573.page) (Pearson Education, 2007) | Practice test questions, flashcards, and media for a related textbook by Kosslyn & Rosenberg 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+TYPE
+{{< thclose >}}
+{{< thopen >}}
+CONTENT
+{{< thclose >}}
+{{< thopen >}}
+CONTEXT
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Web resource
+{{< tdclose >}}
+{{< tdopen >}}
+[Comparative Mammalian Brain Collections](http://www.brainmuseum.org) (aka "Brain Museum")
+{{< tdclose >}}
+{{< tdopen >}}
+Resources on brain anatomy for a wide range of mammals
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Web resource
+{{< tdclose >}}
+{{< tdopen >}}
+[The Human Brain](http://www.learner.org/discoveringpsychology/brain/). _Discovering Psychology._ WGBH Educational Foundation, 2001.
+{{< tdclose >}}
+{{< tdopen >}}
+Summary exploration of the human brain, in animated Flash and non-Flash versions
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Supplemental reading
+{{< tdclose >}}
+{{< tdopen >}}
+Wang, S., and S. Aamodt. _Welcome to Your Brain: Why You Lose Your Car Keys but Never Forget How to Drive and Other Puzzles of Everyday Life_. Bloomsbury, 2008. ISBN:9781596912830.
+{{< tdclose >}}
+{{< tdopen >}}
+An overview of current understanding about the human brain, recommended by the TAs
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Textbook supplement
+{{< tdclose >}}
+{{< tdopen >}}
+Study materials for Chapter 3, "The Biology of Mind and Behavior," in [Study Site for _Psychology in Context_, 3/e](http://www.pearsonhighered.com/educator/product/Fundamentals-of-Psychology-in-Context/9780205507573.page) (Pearson Education, 2007)
+{{< tdclose >}}
+{{< tdopen >}}
+Practice test questions, flashcards, and media for a related textbook by Kosslyn & Rosenberg
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 « [Previous]({{< baseurl >}}/pages/science-research) | [Next]({{< baseurl >}}/pages/brain-ii) »

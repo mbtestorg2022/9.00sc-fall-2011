@@ -9,7 +9,26 @@ uid: ddb63dde-65ae-0e9b-a26c-599b321fc842
 Session Overview
 ----------------
 
-| ![Photo of one green apple in a pile of red apples.]({{< resource_file b408740e-62d5-e294-83a7-1e8429214e2e >}}) |  {{< br >}}{{< br >}} Do you ever get distracted when you are supposed to be focused? Why do we pay attention to something? How are we able to pay attention to certain things while ignoring others? Attention is present in almost all domains of human thought and feeling. During this session, we will focus on visual attention and explore how certain things can captivate our attention. {{< br >}}{{< br >}} _Keywords_: attention, Stroop effect, hypnosis, top-down, bottom-up, attentional blink, multiple object tracking, subliminal perception, cocktail party effect {{< br >}}{{< br >}} _Image by [miamism](http://www.flickr.com/photos/miamism/) on Flickr._ {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![Photo of one green apple in a pile of red apples.]({{< resource_file b408740e-62d5-e294-83a7-1e8429214e2e >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Do you ever get distracted when you are supposed to be focused? Why do we pay attention to something? How are we able to pay attention to certain things while ignoring others? Attention is present in almost all domains of human thought and feeling. During this session, we will focus on visual attention and explore how certain things can captivate our attention.
+
+_Keywords_: attention, Stroop effect, hypnosis, top-down, bottom-up, attentional blink, multiple object tracking, subliminal perception, cocktail party effect
+
+_Image by [miamism](http://www.flickr.com/photos/miamism/) on Flickr._
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Session Activities
 ------------------
@@ -70,9 +89,47 @@ Further Study
 
 These optional resources are provided for students that wish to explore this topic more fully.
 
-| TYPE | CONTENT | CONTEXT |
-| --- | --- | --- |
-| Additional reading | Cherry, E. "Some Experiments on the Recognition of Speech, with One and with Two Ears." _The Journal of the Acoustical Society of America_ 25, no. 5 (1953). (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.4MB](http://www.ee.columbia.edu/~dpwe/papers/Cherry53-cpe.pdf)) | E. Colin Cherry's original 1953 selective attention experiment. The study describes an experiment involving dichotic listening, a demonstration of which was performed during lecture but removed for privacy reasons. |
-| Textbook supplement | Study materials for Ch. 4, "Sensation and Perception: How the World Enters the Mind." In [Kosslyn & Rosenberg, _Psychology in Context_, 3/e](http://www.pearsonhighered.com/educator/product/Fundamentals-of-Psychology-in-Context/9780205507573.page) (Pearson, 2007) | Practice test questions, flashcards, and media for a related textbook 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+TYPE
+{{< thclose >}}
+{{< thopen >}}
+CONTENT
+{{< thclose >}}
+{{< thopen >}}
+CONTEXT
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Additional reading
+{{< tdclose >}}
+{{< tdopen >}}
+Cherry, E. "Some Experiments on the Recognition of Speech, with One and with Two Ears." _The Journal of the Acoustical Society of America_ 25, no. 5 (1953). (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.4MB](http://www.ee.columbia.edu/~dpwe/papers/Cherry53-cpe.pdf))
+{{< tdclose >}}
+{{< tdopen >}}
+E. Colin Cherry's original 1953 selective attention experiment. The study describes an experiment involving dichotic listening, a demonstration of which was performed during lecture but removed for privacy reasons.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Textbook supplement
+{{< tdclose >}}
+{{< tdopen >}}
+Study materials for Ch. 4, "Sensation and Perception: How the World Enters the Mind." In [Kosslyn & Rosenberg, _Psychology in Context_, 3/e](http://www.pearsonhighered.com/educator/product/Fundamentals-of-Psychology-in-Context/9780205507573.page) (Pearson, 2007)
+{{< tdclose >}}
+{{< tdopen >}}
+Practice test questions, flashcards, and media for a related textbook
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 « [Previous]({{< baseurl >}}/pages/vision-ii) | [Next]({{< baseurl >}}/pages/consciousness) »

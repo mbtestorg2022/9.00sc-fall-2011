@@ -9,7 +9,26 @@ uid: 25a2c26c-7f10-9797-3af3-7971963c5415
 Session Overview
 ----------------
 
-| ![Photo of footprints in the sand.]({{< resource_file 1ee50927-2afd-7461-39f7-b92fe0875758 >}}) |  {{< br >}}{{< br >}} How important are first impressions? Do you ever make judgments about others? Do you feel that others judge you? In this session, we will focus on our impressions of others and ourselves and examine the extent to which our environment and culture can influence us. We will also discuss autism. {{< br >}}{{< br >}} _Keywords_: social psychology, autism, false consensus, cognitive dissonance, first impressions, halo effect, self-serving attributional bias, cultural psychology, stereotypes {{< br >}}{{< br >}} _First impressions last longer than footprints in the sand. (Image by [Tomorrow Never Knows](http://www.flickr.com/photos/47803993@N08/) on Flickr. License: CC-BY.)_ {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![Photo of footprints in the sand.]({{< resource_file 1ee50927-2afd-7461-39f7-b92fe0875758 >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+How important are first impressions? Do you ever make judgments about others? Do you feel that others judge you? In this session, we will focus on our impressions of others and ourselves and examine the extent to which our environment and culture can influence us. We will also discuss autism.
+
+_Keywords_: social psychology, autism, false consensus, cognitive dissonance, first impressions, halo effect, self-serving attributional bias, cultural psychology, stereotypes
+
+_First impressions last longer than footprints in the sand. (Image by [Tomorrow Never Knows](http://www.flickr.com/photos/47803993@N08/) on Flickr. License: CC-BY.)_
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Session Activities
 ------------------
@@ -53,9 +72,47 @@ Further Study
 
 These optional resources are provided for students that wish to explore this topic more fully.
 
-| TYPE | CONTENT | CONTEXT |
-| --- | --- | --- |
-| Supplemental textbook | ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[_Principles of Social Psychology_ (PDF - 6.5MB)](http://www.saylor.org/site/textbooks/Principles%20of%20Social%20Psychology.pdf) | Creative Commons-licensed online textbook |
-| Textbook supplement | Study materials for Chapter 16, "Social Psychology: Meeting of the Minds" in [Study Site for _Psychology in Context_, 3/e](http://www.pearsonhighered.com/educator/product/Fundamentals-of-Psychology-in-Context/9780205507573.page) (Pearson Education, 2007) | Practice test questions, flashcards, and media for a related textbook by Kosslyn & Rosenberg 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+TYPE
+{{< thclose >}}
+{{< thopen >}}
+CONTENT
+{{< thclose >}}
+{{< thopen >}}
+CONTEXT
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Supplemental textbook
+{{< tdclose >}}
+{{< tdopen >}}
+![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[_Principles of Social Psychology_ (PDF - 6.5MB)](http://www.saylor.org/site/textbooks/Principles%20of%20Social%20Psychology.pdf)
+{{< tdclose >}}
+{{< tdopen >}}
+Creative Commons-licensed online textbook
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Textbook supplement
+{{< tdclose >}}
+{{< tdopen >}}
+Study materials for Chapter 16, "Social Psychology: Meeting of the Minds" in [Study Site for _Psychology in Context_, 3/e](http://www.pearsonhighered.com/educator/product/Fundamentals-of-Psychology-in-Context/9780205507573.page) (Pearson Education, 2007)
+{{< tdclose >}}
+{{< tdopen >}}
+Practice test questions, flashcards, and media for a related textbook by Kosslyn & Rosenberg
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 « [Previous]({{< baseurl >}}/pages/social-psychology-i) | [Next]({{< baseurl >}}/pages/conclusions) »
