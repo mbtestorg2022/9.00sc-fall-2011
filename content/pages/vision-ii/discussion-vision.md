@@ -76,7 +76,7 @@ What do you see in the image below?
 
 ![Expectations-Changing-Perce.jpg]({{< resource_file 06351388-2d91-1596-036d-c5afb3454952 >}})
 
-Courtesy of Elsevier, Inc., [http://www.sciencedirect.com](http://www.sciencedirect.com). Used with permission. R.C. James, as seen in Tai Sing Lee (2003). Computations in the early visual cortex. Journal of Physiology 97, 121-139. Retrieved from (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.2MB](http://www.cnbc.cmu.edu/~tai/papers/journal_phys.pdf))
+Courtesy of Elsevier, Inc., [http://www.sciencedirect.com](http://www.sciencedirect.com). Used with permission. R.C. James, as seen in Tai Sing Lee (2003). Computations in the early visual cortex. Journal of Physiology 97, 121-139. Retrieved from ([PDF - 1.2MB](http://www.cnbc.cmu.edu/~tai/papers/journal_phys.pdf))
 
 Do you see it?
 

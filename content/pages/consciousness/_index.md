@@ -87,7 +87,7 @@ CONTEXT
 Further reading
 {{< tdclose >}}
 {{< tdopen >}}
-de Gelder, Beatrice. "Uncanny Sight in the Blind." Scientific American, 2010. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://beatricedegelder.com/documents/Uncannysightintheblind.pdf))
+de Gelder, Beatrice. "Uncanny Sight in the Blind." Scientific American, 2010. ([PDF](http://beatricedegelder.com/documents/Uncannysightintheblind.pdf))
 {{< tdclose >}}
 {{< tdopen >}}
 Article discussing a patient Prof. Gabrieli goes over in lecture

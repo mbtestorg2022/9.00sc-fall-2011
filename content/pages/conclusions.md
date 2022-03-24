@@ -80,7 +80,7 @@ CONTEXT
 Supplemental reading
 {{< tdclose >}}
 {{< tdopen >}}
-Clark, R. D., III & E. Hatfield. "Gender Differences in Receptivity to Sexual Offers." _Journal of Psychology and Human Sexuality_ 2 (1989): 39–55. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www2.hawaii.edu/~elaineh/79.pdf))
+Clark, R. D., III & E. Hatfield. "Gender Differences in Receptivity to Sexual Offers." _Journal of Psychology and Human Sexuality_ 2 (1989): 39–55. ([PDF](http://www2.hawaii.edu/~elaineh/79.pdf))
 {{< tdclose >}}
 {{< tdopen >}}
 Paper referenced in lecture video about womens' and mens' responses to three propositons (date, apartment, sex)

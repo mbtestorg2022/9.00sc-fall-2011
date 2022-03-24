@@ -27,7 +27,7 @@ Maher, B. "[Poll Results: Look Who's Doping](http://dx.doi.org/10.1038/452674a).
 
 Swanson, J. M., and N. D. Volkow. "[Increasing Use of Stimulants Warns of Potential Abuse](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2681078/)." _Nature_ 453 (2008): 586.
 
-Greely, H., et al. "Towards Responsible Use of Cognitive-Enhancing Drugs by the Healthy." _Nature_ 456 (2008): 702–5. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://repository.upenn.edu/cgi/viewcontent.cgi?article=1039&context=neuroethics_pubs))
+Greely, H., et al. "Towards Responsible Use of Cognitive-Enhancing Drugs by the Healthy." _Nature_ 456 (2008): 702–5. ([PDF](http://repository.upenn.edu/cgi/viewcontent.cgi?article=1039&context=neuroethics_pubs))
 
 Seven letters published in _Nature_ 457 (2009): 532–3, in response to Greely et al. _Nature_ 2008 commentary.
 

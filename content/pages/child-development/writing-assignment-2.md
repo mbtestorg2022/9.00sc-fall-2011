@@ -29,7 +29,7 @@ Loftus, E. "[Creating False Memories](http://faculty.washington.edu/eloftus/Arti
 
 Loftus, E. "[The Reality of Repressed Memories](http://faculty.washington.edu/eloftus/Articles/lof93.htm)." _American Psychologist_ 48 (1993): 518–37.
 
-Geraerts, E., et al. "The Reality of Recovered Memories." _Psychological Science_ 18, no. 7 (2007): 564–8. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://webfiles.uci.edu/eloftus/LoftusRepressedMemAP93.pdf))
+Geraerts, E., et al. "The Reality of Recovered Memories." _Psychological Science_ 18, no. 7 (2007): 564–8. ([PDF](https://webfiles.uci.edu/eloftus/LoftusRepressedMemAP93.pdf))
 
 Geraerts, E., et al. "[Cognitive Mechanisms Underlying Recovered-Memory Experiences of Childhood Sexual Abuse](http://dx.doi.org/10.1111/j.1467-9280.2008.02247.x)." _Psychological Science_ 20, no. 1 (2009): 92–8.
 

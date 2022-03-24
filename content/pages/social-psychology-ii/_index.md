@@ -93,7 +93,7 @@ CONTEXT
 Supplemental textbook
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[_Principles of Social Psychology_ (PDF - 6.5MB)](http://www.saylor.org/site/textbooks/Principles%20of%20Social%20Psychology.pdf)
+[_Principles of Social Psychology_ (PDF - 6.5MB)](http://www.saylor.org/site/textbooks/Principles%20of%20Social%20Psychology.pdf)
 {{< tdclose >}}
 {{< tdopen >}}
 Creative Commons-licensed online textbook

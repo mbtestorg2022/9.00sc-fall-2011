@@ -110,7 +110,7 @@ CONTEXT
 Additional reading
 {{< tdclose >}}
 {{< tdopen >}}
-Cherry, E. "Some Experiments on the Recognition of Speech, with One and with Two Ears." _The Journal of the Acoustical Society of America_ 25, no. 5 (1953). (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.4MB](http://www.ee.columbia.edu/~dpwe/papers/Cherry53-cpe.pdf))
+Cherry, E. "Some Experiments on the Recognition of Speech, with One and with Two Ears." _The Journal of the Acoustical Society of America_ 25, no. 5 (1953). ([PDF - 1.4MB](http://www.ee.columbia.edu/~dpwe/papers/Cherry53-cpe.pdf))
 {{< tdclose >}}
 {{< tdopen >}}
 E. Colin Cherry's original 1953 selective attention experiment. The study describes an experiment involving dichotic listening, a demonstration of which was performed during lecture but removed for privacy reasons.
