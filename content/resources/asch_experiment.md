@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 77c8fc5b-e4ad-5423-475a-195d788a8976
 resourcetype: Image
 title: Asch_experiment.jpg
 uid: 185d3f8a-dae4-3377-f55b-abb0afad6d23

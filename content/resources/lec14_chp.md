@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 6d9b0bff-490c-c5ef-5d14-755460c9afd0
 resourcetype: Image
 title: lec14_chp.jpg
 uid: 05b61f8b-3858-dcf1-0075-92ef02b30d05

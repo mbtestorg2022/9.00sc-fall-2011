@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: efa61a0f-c3f3-31be-4614-e94ca3ee9a1a
 resourcetype: Image
 title: Configural2.jpg
 uid: 8068a14a-b2ab-4513-5718-b3451c50b594

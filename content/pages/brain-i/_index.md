@@ -12,7 +12,7 @@ Session Overview
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-![Diagram showing side view of the human brain, with major brain regions in different colors.](/courses/brain-and-cognitive-sciences/9-00sc-introduction-to-psychology-fall-2011/brain-i/lec03_chp.jpg)
+{{< resource "9091d8f6-d75c-28ff-9b3a-aba1544099c4" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 

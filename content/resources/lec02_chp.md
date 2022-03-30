@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: Courtesy of Grant MacDonald on Flickr (http://www.flickr.com/photos/grantmac/1472315798/)
   image-alt: Photo of broken windows.
+parent_uid: c4fbf121-480b-0561-6896-19683bc576cf
 resourcetype: Image
 title: lec02_chp.jpg
 uid: 944e8f93-3a52-055b-5fe3-a6506ee322d9

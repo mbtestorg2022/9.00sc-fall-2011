@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 09f6f277-0863-76d7-7bf9-7f807f53d99f
 resourcetype: Image
 title: 9.00sc-lec11-mem2.jpg
 uid: 8762e033-f062-4288-e898-9810f5d90f90

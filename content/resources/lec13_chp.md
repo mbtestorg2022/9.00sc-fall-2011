@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 13877f0d-e096-cd97-097b-21b89a257f99
 resourcetype: Image
 title: lec13_chp.jpg
 uid: d4af182f-9138-1c42-6d44-8d816ac7c14f

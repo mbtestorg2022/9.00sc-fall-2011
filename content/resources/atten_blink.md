@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 69560261-47e9-87b2-11c7-d60818b3adcf
 resourcetype: Image
 title: atten_blink.jpg
 uid: 70e6db00-ae91-0c76-52ea-08589cadd8b8

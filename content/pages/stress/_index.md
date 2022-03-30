@@ -12,7 +12,7 @@ Session Overview
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-![Photo of stress balls with different cartoon facial expressions on them.](/courses/brain-and-cognitive-sciences/9-00sc-introduction-to-psychology-fall-2011/stress/lec19_chp.jpg)
+{{< resource "2cf8f0f9-1607-979c-4c97-ea915322d0a2" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 

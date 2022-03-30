@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 8f18b72f-2e72-4645-1a9f-00323d721732
 resourcetype: Image
 title: diss_img.jpg
 uid: 2559fe30-0989-3b5e-d70e-8c0290fb6cc9

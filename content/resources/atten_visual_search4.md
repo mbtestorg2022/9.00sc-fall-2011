@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 69560261-47e9-87b2-11c7-d60818b3adcf
 resourcetype: Image
 title: atten_visual_search4.jpg
 uid: a0e95630-2f58-3697-4683-8cafde6e2f63

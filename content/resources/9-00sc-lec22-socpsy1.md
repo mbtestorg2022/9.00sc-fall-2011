@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: ccc3861a-7d57-ad0a-f405-18e6fb5674e7
 resourcetype: Image
 title: 9.00sc-lec22-socpsy1.jpg
 uid: 0dac5d87-794f-96da-7cd6-3cfcbdc30ede

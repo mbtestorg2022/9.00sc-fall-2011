@@ -7,6 +7,7 @@ image_metadata:
   caption: Prof. Gabrieli explains his insights on teaching introductory psychology.
   credit: Image courtesy of MIT OpenCourseWare.
   image-alt: The course professor sits at a table smiling next to a model of the brain.
+parent_uid: b4984c35-7427-1ba3-965f-29e67252d227
 resourcetype: Image
 title: Teaching introduction to Psychology
 uid: 6292739a-b7b4-d179-5af6-28632e6d04eb

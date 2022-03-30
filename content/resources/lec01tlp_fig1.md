@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: ef50431b-7ada-1984-07fc-7bb448203a5e
 resourcetype: Image
 title: lec01tlp_fig1.jpg
 uid: 41fbc35b-14a2-3ab2-4a41-5c9a2c281f49

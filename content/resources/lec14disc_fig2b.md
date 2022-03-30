@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: Diagram of two L shapes, one rotated about 180 degrees from the other.
+parent_uid: 05a68009-c3c6-23d2-a788-f8858b6ebf30
 resourcetype: Image
 title: lec14disc_Fig2b.jpg
 uid: 7b054ac9-88f9-f164-1d04-b1d63f4c291c

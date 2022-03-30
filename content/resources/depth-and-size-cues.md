@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: efa61a0f-c3f3-31be-4614-e94ca3ee9a1a
 resourcetype: Image
 title: Depth-and-Size-Cues.jpg
 uid: d45166c8-31a4-8fe5-fdf3-61352e4e43f1
